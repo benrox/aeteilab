@@ -1586,6 +1586,85 @@
 	"cwrc:hasPrecision": "cwrc:mediumCertainty"
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109115729693",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-01-09T10:57:29.693Z",
+	"dcterms:modified": "2023-01-09T10:57:29.693Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/benrox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Benoit Roux"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109115729693#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109115729693#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[4]/p[2]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "https://geonames.org/3042143",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -1598,7 +1677,7 @@
 <div><p>Le <date when="1747-03-29" cert="high">Jeudy.â. 29e mars. 1747</date></p>
 <p>Du Jeudy. â Deux heures de Lapres midy. nous avons levéz Lancre et avons fait voille pour Lisle Dieu les vent a LESE. bon fraits et nayent Rien observé dans La Routte qu'un navire Marchand qui estant par Le traver des Barges Dollonnes. Nous à parlé et ne Sachant pas ou il Estoit, et nous à dit quil venoit de La Martinique et avoit estez chassé d'un Corsaire ;</p></div>
 <div><p>Le <date when="1747-03-30" cert="high">Vandredy. 30e Mars 1747</date></p>
-<p>Du Vandredy a Cinq heure et demy du Soir Nous avons Mouillez par les 10 Brasses deau et avons restez jusquà Landemain deux heures de La pres midy. ayant Pris un pillotte Cautier, nous avons Levéz Lancre et avons appareiller pour donner chasses à un corsaire mathé en d'augre qui estoit Jean <pb cert="high" n="3r" xml:space="default"/>Le gros harmé a Lisle de Gersay et Luy avons donné chasse depuis les Deux heures de lapres midy Jusque sur les 5 heures voyant Ne pouvoir Rien luy faire sur La Marche nous lavons Enbandonnée, et avons Continuer nostre Routte au NO. Les vents Bon frais au NE. ;</p></div>
+<p>Du Vandredy a Cinq heure et demy du Soir Nous avons Mouillez par les 10 Brasses deau et avons restez jusquà Landemain deux heures de La pres midy. ayant Pris un pillotte Cautier, nous avons Levéz Lancre et avons appareiller pour donner chasses à un corsaire mathé en d'augre qui estoit Jean <pb cert="high" n="3r" xml:space="default"/>Le gros harmé a <placeName key="Jersey  Jersey" ref="https://geonames.org/3042143">Lisle de Gersay</placeName> et Luy avons donné chasse depuis les Deux heures de lapres midy Jusque sur les 5 heures voyant Ne pouvoir Rien luy faire sur La Marche nous lavons Enbandonnée, et avons Continuer nostre Routte au NO. Les vents Bon frais au NE. ;</p></div>
 <div><p>Le <date when="1747-03-31">Samedy. 31e mars 1747</date>.</p>
 <p>Du Samedy 31e nous apercue Belle isle qui me Restoit au NNO. environ six Lieues, nous avons continuer notre Routte. Sans avoir pris Connoissance de Rien ; Les vent Continuel Bon frais. gouvernant au NO. ayen toutte a voilles dehors ;</p></div>
 <div><p><date when="1747-04-01" cert="high">Dimanche premier D'avril 1747</date></p>
