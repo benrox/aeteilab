@@ -171,6 +171,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230109110247597",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-01-09T10:02:47.597Z",
+	"dcterms:modified": "2023-01-09T10:02:47.597Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/benrox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Benoit Roux"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230109110247597#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230109110247597#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[2]/p/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1747-03-27"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -178,9 +256,9 @@
 				<head>Journal de Navigation Pour Servire au Sieur Le Breton Lavallée Capitainne En segond sur La fregatte du Roy Le Renard Commandé par Mr. Venard Enseigne De Vaiseaux, ayent Cent soixante Cinq homme dequipage et Seize Canon de 8 l. de bal Et 16 Perrier 120 Mousquet 30 spingolle. party de <placeName key="Rochefort Nouvelle-Aquitaine France" ref="https://geonames.org/2983276" cert="high">Rochefort<precision match="@ref" precision="medium"/></placeName> le 18e janvier 1747.</head>
 				<div><p><date when="1747-01-18" cert="high"/><date when="1747-01-18" cert="high"/><date when="1747-01-18" cert="high"/><date when="1747-01-18" cert="high"/><pb cert="high" n="2r" xml:space="default"/><date when="1747-01-18" cert="high">Janvier 18e 1747</date></p>
 <p>Mercredy dix huit hiemme de Janvier, Les Vents au NE. Bonne fraicheur avec graille ; a huit heures du Matin ; Nous avons mis sous voilles debordant de Lamiral pour aller a la Mature, affin de Racembler notre Equipage abord, pour faire La Reveûe general, â onze heures monsieur Le Commissaire dit Seguin Ses transporté a Bord de La ditte fregatte et avons passé laditte Equippage en Revéue, et Leures avons donnée deux mois davances ; nous avons Resté en le mesme androit ; pour prandre Nos Reste darmement, conptant faire Voille Le Landemain pour Lisleday. mais dans La Nuit environ Les onzes heures du Soir les Vents ayent Beaucoup Raffraichis du NE et auguementant de plus En plus, Lofficier qui Commandait abord Ne saitant pas precaussionner de tous Les evenements qui pouvents Survenir, ayent Disposé son aussier quil avoit a Terre, comme Nestant que sur un ancre, Le Jusant estant venus et surpris : Le dit officier avec une Cottis de Vents du SO. ; La fregatte se trouvá engagé par son officier et layent finté a estez aussitots couché ; heureusements quil y avoit deux chaloupe duport qui estoit encouble de bord, et donná secour a la ditte Equipage pour se Sauver a Terre ; il Sen trouva malheureusement quelque uns de lequipage qui Ne Craignoit point Le danger Samuser a boire a la Barriques de vin p. mise en perce pour La consommation de Lequipage, Le Temps Ne Luy permettant pas de parvenir a son dessein, il se trouva donc deux mathelots avec un soldats angagé entres les pieces de la Cal ; mais Le soldats Se degagea comme estant proche du grand panneau et Se sauva a la Nage a my Ivres ; Les autres se Noyes dans La Calle puisques apres avoir Relevéz La fregatte Nous Les avons trouvé ; Se Napoint Estez avec Beaucoup de painne qu'on ayt eu La fregatte Mais Lon en auroit Eut Bien moin Si Monsieur Dumenuy Capne Duport de Rochefort joint a tous Ses officiers qui ne faisait travailler quavec peut Danvis de La Ravoir Sans Landommager ; par la facon de leurs Lanteur et de leures fasson de Disposer Les Chose puisque apres un mois quont à estez a travailler pour tacher de La tirer De La Riviere ; Cependant on à temps fait qu'on La hallée à terre a force de tirer Sur plusieurs cabestant qu'on avoit estallée à terre, mais il L'on Beaucoup Endommagé on à Este obligé de Luy Couper Ses mats et voilles et Touttes Ses Manoeuvres ; en suittes plusieurs <pb cert="high" n="2v" xml:space="default"/> Ecarves qui feurre obliger de Larguer par la grande force que Sa faisait layent dont Relevé nous primes nos mesmes Commandements, et commancames à le Vider astant Ramplis de Vasse ; et ensuitte nous fumes obligé de Levér les cotards et levames aussi les Parquets pour auter La Vasse apres quoy nous nous disposames a La vider en quille et la Carennance Nous fume pret a faire voille le 20e. de mars, mais lequipage dont la majeur party Estoit chez Eux, lont fut obliger danvoyer un ordres de Mr. Lintendant a leurs commissaires pour les anvoyer estant de Retour a bord, Nous et touttes Lequipages demander un autre mois davance ; Se qu'on Nous acordà et Repassame En Reveue Le 26e. de mars et misme en Radde de Lisle Day.</p></div>
-<div><p>Le mardi 27e Mars 1747</p>
+<div><p>Le <date when="1747-03-27" cert="high">mardi 27e Mars 1747</date></p>
 <p>Le mardi 27e : nous avons Sortis de Lisle day. les vents dESE varriable a LENE. Bon frais, avec touttes voilles Dehors à Deux heures de Laprest midy nous avons mouillé dans Le pretuis Breton est par Les 7 Brasses deau font de Sable, Estant pour le travers de La ville dudit isle ; nous y Avons Resté vingt quatre heures pour y prendre un pillotte Cautier, Mais ny en ayent point trouvé nous avons estez Obligé de faire Route pour Lisle Dieu ;</p></div>
-<div><p>Le Jeudy.â. 29e mars. 1747</p>
+<div><p>Le Jeudy.â. </p>
 <p>Du Jeudy. â Deux heures de Lapres midy. nous avons levéz Lancre et avons fait voille pour Lisle Dieu les vent a LESE. bon fraits et nayent Rien observé dans La Routte qu'un navire Marchand qui estant par Le traver des Barges Dollonnes. Nous à parlé et ne Sachant pas ou il Estoit, et nous à dit quil venoit de La Martinique et avoit estez chassé d'un Corsaire ;</p></div>
 <div><p>Le Vandredy. 30e Mars 1747</p>
 <p>Du Vandredy a Cinq heure et demy du Soir Nous avons Mouillez par les 10 Brasses deau et avons restez jusquà Landemain deux heures de La pres midy. ayant Pris un pillotte Cautier, nous avons Levéz Lancre et avons appareiller pour donner chasses à un corsaire mathé en d'augre qui estoit Jean <pb cert="high" n="3r" xml:space="default"/> Le gros harmé a Lisle de Gersay et Luy avons donné chasse depuis les Deux heures de lapres midy Jusque sur les 5 heures voyant Ne pouvoir Rien luy faire sur La Marche nous lavons Enbandonnée, et avons Continuer nostre Routte au NO. Les vents Bon frais au NE. ;</p></div>
@@ -193,7 +271,7 @@
 <p>Mardis 3e. Avril 1747</p>
 <p>Aujourdhuy faisant noutre Routte nous avons Rancontré un petit corsaire montant Dix Canon, voyant que nous Ne Marchion pas et que Nous avions nos Canons a la saire et Les sabort fermé Nous pris pour un marchand : Nous ayent aproché aporté de Canon et estant venu Dans nos Eaux Nous ne voullumes pas Luy Donner plus de tenue pour Estre Sous La Domination du Roy Dangletere ; nous Donnames un arrivé affin de luy envoyer Touttes Notre Vollé et ce que nous Executame mais malheureusement il Ny Eut aucun Coup qui Luy portes abord, et marchand bien Mieu que Nous, Sechapa et en peut Le perdime de Vûe Le Mercredy</p></div>
 <div><p>mercredy 4e avril 1747</p>
-<p>Nous Ne pumes aller mouiller a Lisle vûe que les vents estant variez du SO au SE et SSE grand frais Nous fumes obliger daller en La Radde de Chette Bois ou nous y Mouillames Malheureusement Mais Voyant quil vantoit grand frais nous fumes obliger de moullier nos deux amures en Barbe ou Ne pouvant Trouver Dautre expediant, mais le vent Estant Toujours continuel du SSE grand frais Ne pouvant Plus Tenire avec nos deux amures la fregatte chassoit Toujours sur la pte Des Minisme et ayent fait sonder sous nous estant pour lors a mer plaisne nous ne Trouvames Que Cinq Brasses deaux, se qui nous determina a Couper notre Mats Dartimon affin deviter les Mauvais suittes pour arrivér Dans La Rochelle, ou nous fumes nous echoués sur les vasses, et Le Landemain entrame dans Le port pour nous Racommodér ; mais ; monsgr de maurepas ecrivit quil falloit Prandre notre Equipage pr ranplacer sur la fregatte du Roy La gironde ce quont fit, et nous donnà un grand acheminement a Notre Desarmemt Nous avons menez La fregatte a Rochefort ou Nous avons desarmé et etez Congedier le 12e dudit Mois D'avril 1747</p></div>
+<p>Nous Ne pumes aller mouiller a Lisle vûe que les <pb cert="high" n="4v" xml:space="default"/> vents estant variez du SO au SE et SSE grand frais Nous fumes obliger daller en La Radde de Chette Bois ou nous y Mouillames Malheureusement Mais Voyant quil vantoit grand frais nous fumes obliger de moullier nos deux amures en Barbe ou Ne pouvant Trouver Dautre expediant, mais le vent Estant Toujours continuel du SSE grand frais Ne pouvant Plus Tenire avec nos deux amures la fregatte chassoit Toujours sur la pte Des Minisme et ayent fait sonder sous nous estant pour lors a mer plaisne nous ne Trouvames Que Cinq Brasses deaux, se qui nous determina a Couper notre Mats Dartimon affin deviter les Mauvais suittes pour arrivér Dans La Rochelle, ou nous fumes nous echoués sur les vasses, et Le Landemain entrame dans Le port pour nous Racommodér ; mais ; monsgr de maurepas ecrivit quil falloit Prandre notre Equipage pr ranplacer sur la fregatte du Roy La gironde ce quont fit, et nous donnà un grand acheminement a Notre Desarmemt Nous avons menez La fregatte a Rochefort ou Nous avons desarmé et etez Congedier le 12e dudit Mois D'avril 1747</p></div>
 <div><p>Fin Du Journal De La fregatte Du Roy Le Renard</p></div></div>
 		</body>
 	</text>
