@@ -1071,10 +1071,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235139819",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235207731",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T22:51:39.819Z",
-	"dcterms:modified": "2023-01-09T22:52:07.731Z",
+	"dcterms:created": "2023-01-09T22:52:07.731Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -1085,7 +1084,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235139819#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235207731#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -1099,7 +1098,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235139819#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235207731#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/p/placeName"
 		}
@@ -1151,10 +1150,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235147372",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235159949",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T22:51:47.372Z",
-	"dcterms:modified": "2023-01-09T22:51:59.949Z",
+	"dcterms:created": "2023-01-09T22:51:59.949Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -1165,7 +1163,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235147372#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235159949#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -1179,7 +1177,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235147372#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109235159949#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/p/placeName[2]"
 		}
@@ -1232,10 +1230,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230109235215308",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230109235217859",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T22:52:15.308Z",
-	"dcterms:modified": "2023-01-09T22:52:17.859Z",
+	"dcterms:created": "2023-01-09T22:52:17.859Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -1246,7 +1243,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230109235215308#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230109235217859#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -1260,7 +1257,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230109235215308#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230109235217859#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/opener/date"
 		}
@@ -1310,10 +1307,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000138171",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000140595",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T23:01:38.171Z",
-	"dcterms:modified": "2023-01-09T23:01:40.595Z",
+	"dcterms:created": "2023-01-09T23:01:40.595Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -1324,7 +1320,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000138171#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000140595#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -1338,7 +1334,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000138171#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000140595#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[3]/opener/date"
 		}
@@ -1547,10 +1543,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000155835",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000157379",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T23:01:55.835Z",
-	"dcterms:modified": "2023-01-09T23:01:57.379Z",
+	"dcterms:created": "2023-01-09T23:01:57.379Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -1561,7 +1556,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000155835#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000157379#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -1575,7 +1570,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000155835#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000157379#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[4]/opener/date"
 		}
@@ -1784,10 +1779,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000217369",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000239230",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T23:02:17.369Z",
-	"dcterms:modified": "2023-01-09T23:02:39.230Z",
+	"dcterms:created": "2023-01-09T23:02:39.230Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -1798,7 +1792,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000217369#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000239230#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -1812,7 +1806,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000217369#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000239230#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[6]/p/placeName"
 		}
@@ -1865,10 +1859,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000221203",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000223083",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T23:02:21.203Z",
-	"dcterms:modified": "2023-01-09T23:02:23.083Z",
+	"dcterms:created": "2023-01-09T23:02:23.083Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -1879,7 +1872,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000221203#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000223083#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -1893,7 +1886,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000221203#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000223083#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[6]/opener/date"
 		}
@@ -1943,10 +1936,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000226402",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000229238",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T23:02:26.402Z",
-	"dcterms:modified": "2023-01-09T23:02:29.238Z",
+	"dcterms:created": "2023-01-09T23:02:29.238Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -1957,7 +1949,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000226402#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000229238#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -1971,7 +1963,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000226402#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000229238#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[5]/opener/date"
 		}
@@ -2100,10 +2092,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000317501",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000515821",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T23:03:17.501Z",
-	"dcterms:modified": "2023-01-09T23:03:21.037Z",
+	"dcterms:created": "2023-01-09T23:05:15.821Z",
+	"dcterms:modified": "2023-01-09T23:05:15.821Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -2114,7 +2106,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000317501#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000515821#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -2128,241 +2120,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000317501#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[8]/opener/date"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "xsd:date",
-		"rdf:value": "1747-04-03"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000343553",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T23:03:43.553Z",
-	"dcterms:modified": "2023-01-09T23:03:43.553Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/benrox",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Benoit Roux"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000343553#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000343553#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[8]/p[2]/date"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "xsd:date",
-		"rdf:value": "1747-04-04"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000347515",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T23:03:47.515Z",
-	"dcterms:modified": "2023-01-09T23:03:49.344Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/benrox",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Benoit Roux"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000347515#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000347515#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[9]/opener/date"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "xsd:date",
-		"rdf:value": "1747-04-04"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "2.3.1"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000353719",
-	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T23:03:53.719Z",
-	"dcterms:modified": "2023-01-09T23:03:53.719Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/benrox",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Benoit Roux"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000353719#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "2.3.1"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000353719#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110000515821#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[9]/p/placeName"
 		}
@@ -2380,6 +2138,84 @@
 		"schema:softwareVersion": "2.3.1"
 	},
 	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000522976",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-01-09T23:05:22.976Z",
+	"dcterms:modified": "2023-01-09T23:05:25.070Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/benrox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Benoit Roux"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000522976#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?date_annotation_20230110000522976#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[9]/opener/date"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "xsd:date",
+		"rdf:value": "1747-04-04"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	}
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
@@ -2402,9 +2238,9 @@
 <div><opener><date when="1747-04-01" cert="high">Dimanche premier D'avril 1747</date></opener>
 <p>Du Dimenche Nous continuons à gouverner Au NO. Et NO ¼ N. avec Toutes Voilles dehors ; mais voyent que La fregatte ne marchait pas et ne portait pas Beaucoup La voille nous primes Le partis de Relacher au <placeName key="Port-Louis" ref="https://www.geonames.org/2985963/" cert="high">port Loüis<precision match="@ref" precision="medium"/></placeName> ou nous y mouillames Le mesmes jour ventant grand frais environs les 5 heures Du Soire ; Immediatement apres nous otame Deux canon de six Livres de Balles et deux de 4 l. de Balles que nous mismes dans La qualle sur l'avant du Vaisseaux pansant quil ut mieux marché ; nous avons Resté dans La ditte Radde 6 Jours Les vents nous ayent Toujours Contrariez.</p></div>
 <div><p><date when="1747-04-02">Lundy</date> â neuf heures Du Matin Nous appareillame Et Sortimes avec les Vx Du Roy L'invincible et Le Jazon et plusieurs navires De La Compagnies des Inde qui fure mouille Sous Grois, mais Nous poursuivimes notre Routte voullan Trouver Les glenant ou Lon nous dit quil y avoit des Corsaires anglais ; Mais Nayent Rien apperçue dedans Nous fimes une Bordé au Large le Cap au SO. les vent au NE Bon frais ; Sur les 6 heures Du Soire Nous umes Connaissance d'une Voille qui Chassois Sur Nous ; aussitot Nous Revisame de Bord et Courume pour en avoir mieux <pb cert="high" n="3v" xml:space="default"/>De Connoissance ; peut de tems apres La Vegie q Cria Quel En voyait plusieurs quel Contoit au nombre de Trante trois Nous presumames que Sestoit Le Convois des Barques Bretonne et altoit a Nantes ; mais Celuy que Nous appercume Le premier nous le prime pour un Corsaire anglois vûe quils Estoit Tres Eloigne de La flottes ; Nous ayent joint et nous tres Disposé aux Combats Le dit navire nous anvoyat un Coup de Canon a Boullet Comme Nous Estions au Vent a luy et Ne pouvoit Nous voire notre pavillon nous Donnames un Elans en Luy Envoyent un coups de Canon a boulet pour luy assurer notre Pavillon ; malgré cette assurance il nous tira huit Coup de Canon, Nous Vime Bien que Cestait La decouverte de La Flotte nous arrivames par sous Le Vent a Luy affin de Luy Parler ; nous helas demandant dous nous estions ont Luy Repondit fregatte du Roy de <placeName key="Rochefort" ref="https://geonames.org/2983276">Rochefort</placeName> et estant Par Son Traver Nous Le Saluame de Sept Vive le Roy, et luy Repondit de sept autres Vive Le Roy et nous Dit quil y avait un Corsaire qui estait a Raudé aux environ des glenant, sur les huit heures du soir Nous apercume Un Navire venans a nostre Rencontre qui nous parûs Estre Disposé au combats ayent Distingué Ses Fanaux Entre Les Postes De Canon ; estant a Porté de Canon. Il nous appercue estant Disposé pareilllement Que Luy. a Combat. voyant sa il vira De bord pour nous Eviter. mais aussitots ayent appercue Sa Maneuvre ; Nous voullumes forcer De Voilles, mais La Mauvaise Calité De La Fregatte ; nous Trompan Baucoup car elle ne pouvais Porter De Voille quoy que Le Tems ne demandoit au Qu'une precaution sur Les Voillures d'un vx ; nous <pb cert="high" n="4r" xml:space="default"/>Nume donc pas plustot amuré Nostre grand Voille que Nostre fregatte se Couchá et nayent pas eut le Tems de maneuvrer pour Eviter Lespace de Six minuttes dampecher La fregatte dambarquer de leau par son grand Panneau ou Tout un chachun se Jettoit sur le Bord du Cotté du Vent de ladte fregatte ayent perdûe Touttes Esperances De Vie Criayt mais dieu pourvoyant a Tout et ayent manevrer apropos La fregatte se Releva aussitots, Nous, chercham plus a donner chasse au Dit Vx et faisant Routte pour Relacher, les vents Estant Propre pour donner O dans Lisle Day. Nous y fimes Routtes ;</p></div>
-<div><opener>Du <date when="1747-04-03" cert="high">mardy. 3e. avril 1747</date>.</opener>
+<div><opener>Du <date when="1747-04-03">mardy. 3e. avril 1747</date>.</opener>
 <p>Mardis 3e. Avril 1747</p>
-<p>Aujourdhuy faisant noutre Routte nous avons Rancontré un petit corsaire montant Dix Canon, voyant que nous Ne Marchion pas et que Nous avions nos Canons a la saire et Les sabort fermé Nous pris pour un marchand : Nous ayent aproché aporté de Canon et estant venu Dans nos Eaux Nous ne voullumes pas Luy Donner plus de tenue pour Estre Sous La Domination du Roy Dangletere ; nous Donnames un arrivé affin de luy envoyer Touttes Notre Vollé et ce que nous Executame mais malheureusement il Ny Eut aucun Coup qui Luy portes abord, et marchand bien Mieu que Nous, Sechapa et en peut Le perdime de Vûe Le <date when="1747-04-04" cert="high">Mercredy</date></p></div>
+<p>Aujourdhuy faisant noutre Routte nous avons Rancontré un petit corsaire montant Dix Canon, voyant que nous Ne Marchion pas et que Nous avions nos Canons a la saire et Les sabort fermé Nous pris pour un marchand : Nous ayent aproché aporté de Canon et estant venu Dans nos Eaux Nous ne voullumes pas Luy Donner plus de tenue pour Estre Sous La Domination du Roy Dangletere ; nous Donnames un arrivé affin de luy envoyer Touttes Notre Vollé et ce que nous Executame mais malheureusement il Ny Eut aucun Coup qui Luy portes abord, et marchand bien Mieu que Nous, Sechapa et en peut Le perdime de Vûe Le Mercredy</p></div>
 <div><opener><date when="1747-04-04" cert="high">mercredy 4e avril 1747</date></opener>
 <p>Nous Ne pumes aller mouiller a Lisle vûe que les <pb cert="high" n="4v" xml:space="default"/>vents estant variez du SO au SE et SSE grand frais Nous fumes obliger daller en La Radde de Chette Bois ou nous y Mouillames Malheureusement Mais Voyant quil vantoit grand frais nous fumes obliger de moullier nos deux amures en Barbe ou Ne pouvant Trouver Dautre expediant, mais le vent Estant Toujours continuel du SSE grand frais Ne pouvant Plus Tenire avec nos deux amures la fregatte chassoit Toujours sur la <placeName key="Pointe des Minimes" ref="http://www.geonames.org/2993794/">pte Des Minisme<precision match="@ref" precision="high"/></placeName> et ayent fait sonder sous nous estant pour lors a mer plaisne nous ne Trouvames Que Cinq Brasses deaux, se qui nous determina a Couper notre Mats Dartimon affin deviter les Mauvais suittes pour arrivér Dans La Rochelle, ou nous fumes nous echoués sur les vasses, et Le Landemain entrame dans Le port pour nous Racommodér ; mais ; monsgr de maurepas ecrivit quil falloit Prandre notre Equipage pr ranplacer sur la fregatte du Roy La gironde ce quont fit, et nous donnà un grand acheminement a Notre Desarmemt Nous avons menez La fregatte a Rochefort ou Nous avons desarmé et etez Congedier le <date when="1747-04-12" cert="high">12e dudit Mois D'avril 1747</date></p></div>
 <closer>Fin Du Journal De La fregatte Du Roy Le Renard</closer></div>
