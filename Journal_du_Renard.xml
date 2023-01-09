@@ -1219,6 +1219,84 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230109113241117",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-01-09T10:32:41.117Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/benrox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Benoit Roux"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230109113241117#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230109113241117#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/opener/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:Note",
+		"dc:format": "text/plain",
+		"rdf:value": "Pierrier, canon qui lance des boulets de pierre."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230109113157504",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-09T10:31:57.504Z",
@@ -1298,10 +1376,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230109113401503",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109113924392",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-09T10:34:01.503Z",
-	"dcterms:modified": "2023-01-09T10:34:01.503Z",
+	"dcterms:created": "2023-01-09T10:39:24.392Z",
+	"dcterms:modified": "2023-01-09T10:39:24.392Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -1310,9 +1388,9 @@
 		],
 		"cwrc:hasName": "Benoit Roux"
 	},
-	"oa:motivatedBy": "oa:describing",
+	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230109113401503#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109113924392#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -1326,15 +1404,15 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230109113401503#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230109113924392#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/opener/note"
+			"rdf:value": "TEI/text/body/div/div/p[2]/placeName[3]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:Note",
-		"dc:format": "text/plain",
-		"rdf:value": "Pierrier, canon qui lance des boulets de pierre."
+		"@type": "cwrc:RealPlace",
+		"@id": "http://marineregions.org/mrgid/31501",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -1342,16 +1420,18 @@
 		"rdfs:label": "LEAF-Writer",
 		"schema:url": "https://leaf-writer.lincsproject.ca/",
 		"schema:softwareVersion": "2.3.1"
-	}
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:mediumCertainty"
 }]]>
         </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<div>
-				<opener>Journal de Navigation Pour Servire au Sieur Le Breton Lavallée Capitainne En segond sur La fregatte du Roy Le Renard Commandé par Mr. Venard Enseigne De Vaiseaux, ayent Cent soixante Cinq homme dequipage et Seize Canon de 8 l. de bal Et 16 Perrier<note type="lexique">Pierrier, canon qui lance des boulets de pierre.</note> 120 Mousquet 30 spingolle<note type="lexique">Spingole, fusil court au canon évasé.</note>. party de <placeName key="Rochefort Nouvelle-Aquitaine France" ref="https://geonames.org/2983276" cert="high">Rochefort<precision match="@ref" precision="medium"/></placeName><precision match="@ref" precision="medium"/> le <date when="1747-01-18" cert="high">18e janvier 1747</date>.</opener>
+				<opener>Journal de Navigation Pour Servire au Sieur Le Breton Lavallée Capitainne En segond sur La fregatte du Roy Le Renard Commandé par Mr. Venard Enseigne De Vaiseaux, ayent Cent soixante Cinq homme dequipage et Seize Canon de 8 l. de bal Et 16 Perrier<note type="lexique" otherType="lexique">Pierrier, canon qui lance des boulets de pierre.</note> 120 Mousquet 30 spingolle<note type="lexique">Spingole, fusil court au canon évasé.</note>. party de <placeName key="Rochefort Nouvelle-Aquitaine France" ref="https://geonames.org/2983276" cert="high">Rochefort<precision match="@ref" precision="medium"/></placeName><precision match="@ref" precision="medium"/> le <date when="1747-01-18" cert="high">18e janvier 1747</date>.</opener>
 				<div><p><date when="1747-01-18" cert="high"/><date when="1747-01-18" cert="high"/><date when="1747-01-18" cert="high"/><date when="1747-01-18" cert="high"/><pb cert="high" n="2r" xml:space="default"/><date when="1747-01-18" cert="high">Janvier 18e 1747</date></p>
-<p>Mercredy dix huit hiemme de Janvier, Les Vents au NE. Bonne fraicheur avec graille ; a huit heures du Matin ; Nous avons mis sous voilles debordant de Lamiral pour aller a la Mature, affin de Racembler notre Equipage abord, pour faire La Reveûe general, â onze heures monsieur Le Commissaire dit Seguin Ses transporté a Bord de La ditte fregatte et avons passé laditte Equippage en Revéue, et Leures avons donnée deux mois davances ; nous avons Resté en le mesme androit ; pour prandre Nos Reste darmement, conptant faire Voille Le Landemain pour <placeName key="Île-d'Aix Nouvelle-Aquitaine France" ref="https://geonames.org/6614243" cert="high">Lisleday<precision match="@ref" precision="medium"/></placeName>. mais dans La Nuit environ Les onzes heures du Soir les Vents ayent Beaucoup Raffraichis du NE et auguementant de plus En plus, Lofficier qui Commandait abord Ne saitant pas precaussionner de tous Les evenements qui pouvents Survenir, ayent Disposé son aussier quil avoit a Terre, comme Nestant que sur un ancre, Le Jusant estant venus et surpris : Le dit officier avec une Cottis de Vents du SO. ; La fregatte se trouvá engagé par son officier et layent finté a estez aussitots couché ; heureusements quil y avoit deux chaloupe duport qui estoit encouble de bord, et donná secour a la ditte Equipage pour se Sauver a Terre ; il Sen trouva malheureusement quelque uns de lequipage qui Ne Craignoit point Le danger Samuser a boire a la Barriques de vin p. mise en perce pour La consommation de Lequipage, Le Temps Ne Luy permettant pas de parvenir a son dessein, il se trouva donc deux mathelots avec un soldats angagé entres les pieces de la Cal ; mais Le soldats Se degagea comme estant proche du grand panneau et Se sauva a la Nage a my Ivres ; Les autres se Noyes dans La Calle puisques apres avoir Relevéz La fregatte Nous Les avons trouvé ; Se Napoint Estez avec Beaucoup de painne qu'on ayt eu La fregatte Mais Lon en auroit Eut Bien moin Si Monsieur Dumenuy Capne Duport de <placeName key="Rochefort" ref="http://www.wikidata.org/entity/Q207587" cert="high">Rochefort<precision match="@ref" precision="high"/></placeName> joint a tous Ses officiers qui ne faisait travailler quavec peut Danvis de La Ravoir Sans Landommager ; par la facon de leurs Lanteur et de leures fasson de Disposer Les Chose puisque apres un mois quont à estez a travailler pour tacher de La tirer De La Riviere ; Cependant on à temps fait qu'on La hallée à terre a force de tirer Sur plusieurs cabestant qu'on avoit estallée à terre, mais il L'on Beaucoup Endommagé on à Este obligé de Luy Couper Ses mats et voilles et Touttes Ses Manoeuvres ; en suittes plusieurs <pb cert="high" n="2v" xml:space="default"/>Ecarves qui feurre obliger de Larguer par la grande force que Sa faisait layent dont Relevé nous primes nos mesmes Commandements, et commancames à le Vider astant Ramplis de Vasse ; et ensuitte nous fumes obligé de Levér les cotards et levames aussi les Parquets pour auter La Vasse apres quoy nous nous disposames a La vider en quille et la Carennance Nous fume pret a faire voille le <date when="1747-03-20" cert="high">20e. de mars</date>, mais lequipage dont la majeur party Estoit chez Eux, lont fut obliger danvoyer un ordres de Mr. Lintendant a leurs commissaires pour les anvoyer estant de Retour a bord, Nous et touttes Lequipages demander un autre mois davance ; Se qu'on Nous acordà et Repassame En Reveue Le 26e. de mars et misme en Radde de Lisle Day.</p></div>
+<p>Mercredy dix huit hiemme de Janvier, Les Vents au NE. Bonne fraicheur avec graille ; a huit heures du Matin ; Nous avons mis sous voilles debordant de Lamiral pour aller a la Mature, affin de Racembler notre Equipage abord, pour faire La Reveûe general, â onze heures monsieur Le Commissaire dit Seguin Ses transporté a Bord de La ditte fregatte et avons passé laditte Equippage en Revéue, et Leures avons donnée deux mois davances ; nous avons Resté en le mesme androit ; pour prandre Nos Reste darmement, conptant faire Voille Le Landemain pour <placeName key="Île-d'Aix Nouvelle-Aquitaine France" ref="https://geonames.org/6614243" cert="high">Lisleday<precision match="@ref" precision="medium"/></placeName>. mais dans La Nuit environ Les onzes heures du Soir les Vents ayent Beaucoup Raffraichis du NE et auguementant de plus En plus, Lofficier qui Commandait abord Ne saitant pas precaussionner de tous Les evenements qui pouvents Survenir, ayent Disposé son aussier quil avoit a Terre, comme Nestant que sur un ancre, Le Jusant estant venus et surpris : Le dit officier avec une Cottis de Vents du SO. ; La fregatte se trouvá engagé par son officier et layent finté a estez aussitots couché ; heureusements quil y avoit deux chaloupe duport qui estoit encouble de bord, et donná secour a la ditte Equipage pour se Sauver a Terre ; il Sen trouva malheureusement quelque uns de lequipage qui Ne Craignoit point Le danger Samuser a boire a la Barriques de vin p. mise en perce pour La consommation de Lequipage, Le Temps Ne Luy permettant pas de parvenir a son dessein, il se trouva donc deux mathelots avec un soldats angagé entres les pieces de la Cal ; mais Le soldats Se degagea comme estant proche du grand panneau et Se sauva a la Nage a my Ivres ; Les autres se Noyes dans La Calle puisques apres avoir Relevéz La fregatte Nous Les avons trouvé ; Se Napoint Estez avec Beaucoup de painne qu'on ayt eu La fregatte Mais Lon en auroit Eut Bien moin Si Monsieur Dumenuy Capne Duport de <placeName key="Rochefort" ref="http://www.wikidata.org/entity/Q207587" cert="high">Rochefort<precision match="@ref" precision="high"/></placeName> joint a tous Ses officiers qui ne faisait travailler quavec peut Danvis de La Ravoir Sans Landommager ; par la facon de leurs Lanteur et de leures fasson de Disposer Les Chose puisque apres un mois quont à estez a travailler pour tacher de La tirer De <placeName key="Charente" ref="http://marineregions.org/mrgid/31501" cert="high">La Riviere<precision match="@ref" precision="medium"/></placeName> ; Cependant on à temps fait qu'on La hallée à terre a force de tirer Sur plusieurs cabestant qu'on avoit estallée à terre, mais il L'on Beaucoup Endommagé on à Este obligé de Luy Couper Ses mats et voilles et Touttes Ses Manoeuvres ; en suittes plusieurs <pb cert="high" n="2v" xml:space="default"/>Ecarves qui feurre obliger de Larguer par la grande force que Sa faisait layent dont Relevé nous primes nos mesmes Commandements, et commancames à le Vider astant Ramplis de Vasse ; et ensuitte nous fumes obligé de Levér les cotards et levames aussi les Parquets pour auter La Vasse apres quoy nous nous disposames a La vider en quille et la Carennance Nous fume pret a faire voille le <date when="1747-03-20" cert="high">20e. de mars</date>, mais lequipage dont la majeur party Estoit chez Eux, lont fut obliger danvoyer un ordres de Mr. Lintendant a leurs commissaires pour les anvoyer estant de Retour a bord, Nous et touttes Lequipages demander un autre mois davance ; Se qu'on Nous acordà et Repassame En Reveue Le 26e. de mars et misme en Radde de Lisle Day.</p></div>
 <div><p>Le <date when="1747-03-27" cert="high">mardi 27e Mars 1747</date></p>
 <p>Le mardi 27e : nous avons Sortis de Lisle day. les vents dESE varriable a LENE. Bon frais, avec touttes voilles Dehors à Deux heures de Laprest midy nous avons mouillé dans Le pretuis Breton est par Les 7 Brasses deau font de Sable, Estant pour le travers de La ville dudit isle ; nous y Avons Resté vingt quatre heures pour y prendre un pillotte Cautier, Mais ny en ayent point trouvé nous avons estez Obligé de faire Route pour Lisle Dieu ;</p></div>
 <div><p>Le <date when="1747-03-29" cert="high">Jeudy.â. 29e mars. 1747</date></p>
