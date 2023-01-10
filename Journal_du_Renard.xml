@@ -6891,7 +6891,7 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110175138481",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T16:51:38.481Z",
-	"dcterms:modified": "2023-01-10T17:19:04.397Z",
+	"dcterms:modified": "2023-01-10T17:21:32.092Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
