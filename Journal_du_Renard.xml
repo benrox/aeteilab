@@ -7230,13 +7230,92 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110182437764#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[9]/p/note"
+			"rdf:value": "TEI/text/body/div/div[9]/p/note[2]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NoteScholarly",
 		"dc:format": "text/plain",
 		"rdf:value": "Environ 9,15 m."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110182517334",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-01-10T17:25:17.334Z",
+	"dcterms:modified": "2023-01-10T17:25:17.334Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/benrox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Benoit Roux"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110182517334#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110182517334#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[9]/p/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteScholarly",
+		"dc:format": "text/plain",
+		"rdf:value": "Être en barbe, être mouillé à l’avant et à proximité d’un autre navire."
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -7271,7 +7350,7 @@
 <p>Mardis 3e. Avril 1747</p>
 <p>Aujourdhuy faisant noutre Routte nous avons Rancontré un petit corsaire montant Dix Canon, voyant que nous Ne Marchion pas et que Nous avions nos Canons a la saire et Les sabort fermé Nous pris pour un marchand : Nous ayent aproché aporté de Canon et estant venu Dans nos Eaux Nous ne voullumes pas Luy Donner plus de tenue pour Estre Sous La Domination du Roy Dangletere ; nous Donnames un arrivé affin de luy envoyer Touttes Notre Vollé et ce que nous Executame mais malheureusement il Ny Eut aucun Coup qui Luy portes abord, et marchand bien Mieu que Nous, Sechapa et en peut Le perdime de Vûe Le <date when="1747-04-04" cert="high">Mercredy</date></p></div>
 <div><opener><date when="1747-04-04" cert="high">mercredy 4e avril 1747</date></opener>
-<p>Nous Ne pumes aller mouiller a Lisle vûe que les <pb cert="high" n="4v" xml:space="default"/>vents estant variez du SO au SE et SSE grand frais Nous fumes obliger daller en La Radde de Chette Bois ou nous y Mouillames Malheureusement Mais Voyant quil vantoit grand frais nous fumes obliger de moullier nos deux amures en Barbe ou Ne pouvant Trouver Dautre expediant, mais le vent Estant Toujours continuel du SSE grand frais Ne pouvant Plus Tenire avec nos deux amures la fregatte chassoit Toujours sur la <placeName key="Pointe des Minimes" ref="http://www.geonames.org/2993794/">pte Des Minisme<precision match="@ref" precision="high"/></placeName> et ayent fait sonder sous nous estant pour lors a mer plaisne nous ne Trouvames Que Cinq Brasses<note type="scholarNote">Environ 9,15 m.</note> deaux, se qui nous determina a Couper notre Mats Dartimon affin deviter les Mauvais suittes pour arrivér Dans La Rochelle, ou nous fumes nous echoués sur les vasses, et Le Landemain entrame dans Le port pour nous Racommodér ; mais ; <persName key="Maurepas, Jean-Frédéric Phélypeaux, 1701-1781, comte de" ref="http://viaf.org/viaf/19790656/" cert="high" type="real">monsgr de maurepas</persName> ecrivit quil falloit Prandre notre Equipage pr ranplacer sur la fregatte du Roy La gironde ce quont fit, et nous donnà un grand acheminement a Notre Desarmemt Nous avons menez La fregatte a Rochefort ou Nous avons desarmé et etez Congedier le <date when="1747-04-12" cert="high">12e dudit Mois D'avril 1747</date></p></div>
+<p>Nous Ne pumes aller mouiller a Lisle vûe que les <pb cert="high" n="4v" xml:space="default"/>vents estant variez du SO au SE et SSE grand frais Nous fumes obliger daller en La Radde de Chette Bois ou nous y Mouillames Malheureusement Mais Voyant quil vantoit grand frais nous fumes obliger de moullier nos deux amures en Barbe<note type="scholarNote">Être en barbe, être mouillé à l’avant et à proximité d’un autre navire.</note> ou Ne pouvant Trouver Dautre expediant, mais le vent Estant Toujours continuel du SSE grand frais Ne pouvant Plus Tenire avec nos deux amures la fregatte chassoit Toujours sur la <placeName key="Pointe des Minimes" ref="http://www.geonames.org/2993794/">pte Des Minisme<precision match="@ref" precision="high"/></placeName> et ayent fait sonder sous nous estant pour lors a mer plaisne nous ne Trouvames Que Cinq Brasses<note type="scholarNote">Environ 9,15 m.</note> deaux, se qui nous determina a Couper notre Mats Dartimon affin deviter les Mauvais suittes pour arrivér Dans La Rochelle, ou nous fumes nous echoués sur les vasses, et Le Landemain entrame dans Le port pour nous Racommodér ; mais ; <persName key="Maurepas, Jean-Frédéric Phélypeaux, 1701-1781, comte de" ref="http://viaf.org/viaf/19790656/" cert="high" type="real">monsgr de maurepas</persName> ecrivit quil falloit Prandre notre Equipage pr ranplacer sur la fregatte du Roy La gironde ce quont fit, et nous donnà un grand acheminement a Notre Desarmemt Nous avons menez La fregatte a Rochefort ou Nous avons desarmé et etez Congedier le <date when="1747-04-12" cert="high">12e dudit Mois D'avril 1747</date></p></div>
 <closer>Fin Du Journal De La fregatte Du Roy Le Renard</closer></div>
 		</body>
 	</text>
