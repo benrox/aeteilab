@@ -3585,6 +3585,7 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110180629637",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T17:06:29.637Z",
+	"dcterms:modified": "2023-01-10T17:06:29.637Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -3611,7 +3612,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110180629637#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note"
+			"rdf:value": "TEI/text/body/div/div/p/note[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3663,6 +3664,7 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110180645448",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T17:06:45.448Z",
+	"dcterms:modified": "2023-01-10T17:06:45.448Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -3689,7 +3691,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110180645448#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note[2]"
+			"rdf:value": "TEI/text/body/div/div/p/note[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -3741,6 +3743,7 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110180658792",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T17:06:58.792Z",
+	"dcterms:modified": "2023-01-10T17:06:58.792Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -3767,7 +3770,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110180658792#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note[3]"
+			"rdf:value": "TEI/text/body/div/div/p/note[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -3977,6 +3980,7 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181022577",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T17:10:22.577Z",
+	"dcterms:modified": "2023-01-10T17:10:22.577Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -4003,7 +4007,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181022577#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note[4]"
+			"rdf:value": "TEI/text/body/div/div/p/note[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -4055,6 +4059,7 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181107648",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T17:11:07.648Z",
+	"dcterms:modified": "2023-01-10T17:11:07.648Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -4081,7 +4086,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181107648#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note[5]"
+			"rdf:value": "TEI/text/body/div/div/p/note[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -4211,6 +4216,7 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181223440",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T17:12:23.440Z",
+	"dcterms:modified": "2023-01-10T17:12:23.440Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -4237,7 +4243,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181223440#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note[6]"
+			"rdf:value": "TEI/text/body/div/div/p/note[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -4367,6 +4373,7 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181253470",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T17:12:53.470Z",
+	"dcterms:modified": "2023-01-10T17:12:53.470Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -4393,7 +4400,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181253470#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note[7]"
+			"rdf:value": "TEI/text/body/div/div/p/note[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -4445,6 +4452,7 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181642065",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T17:16:42.065Z",
+	"dcterms:modified": "2023-01-10T17:16:42.065Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -4471,7 +4479,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181642065#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note[8]"
+			"rdf:value": "TEI/text/body/div/div/p/note[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -4523,6 +4531,7 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181706883",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T17:17:06.883Z",
+	"dcterms:modified": "2023-01-10T17:17:06.883Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -4549,7 +4558,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110181706883#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note[9]"
+			"rdf:value": "TEI/text/body/div/div/p/note[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -4835,7 +4844,6 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110172502804",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T16:25:02.804Z",
-	"dcterms:modified": "2023-01-10T16:25:02.804Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -4862,7 +4870,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110172502804#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note[10]"
+			"rdf:value": "TEI/text/body/div/div/p/note[11]"
 		}
 	},
 	"oa:hasBody": {
@@ -4992,7 +5000,6 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110172726364",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T16:27:26.364Z",
-	"dcterms:modified": "2023-01-10T16:27:26.364Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -5019,7 +5026,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110172726364#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note[11]"
+			"rdf:value": "TEI/text/body/div/div/p/note[12]"
 		}
 	},
 	"oa:hasBody": {
@@ -5305,7 +5312,6 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110173033742",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T16:30:33.742Z",
-	"dcterms:modified": "2023-01-10T16:30:33.742Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -5332,7 +5338,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110173033742#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div/p/note[12]"
+			"rdf:value": "TEI/text/body/div/div/p/note[13]"
 		}
 	},
 	"oa:hasBody": {
@@ -9760,6 +9766,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110190226320",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-01-10T18:02:26.320Z",
+	"dcterms:modified": "2023-01-10T18:02:26.320Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/benrox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Benoit Roux"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110190226320#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110190226320#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div/p/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteScholarly",
+		"dc:format": "text/plain",
+		"rdf:value": "Il s’agit vraisemblablement de l’atelier de la mâture, vaste bâtiment de plus de cinquante mètre de long sur quinze de large dans la partie sud de l’arsenal de Rochefort."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -9768,7 +9853,7 @@
 				
 				<div><pb cert="high" n="2r" xml:space="default"/>
 				<opener><date when="1747-01-18" cert="high">Janvier 18e 1747</date></opener>
-<p>Mercredy dix huit hiemme de Janvier, Les Vents au <choice><sic>NE</sic><corr>nord-est</corr></choice>. Bonne fraicheur avec <choice><sic>graille</sic><corr>grêle</corr></choice> ; a huit heures du Matin ; Nous avons mis sous voilles debordant de Lamiral pour aller a la Mature, affin de Racembler notre Equipage abord, pour faire La Reveûe general, â onze heures <persName>monsieur Le Commissaire dit Seguin</persName> <choice><sic>Ses</sic><corr>s'est</corr></choice> transporté a Bord de La ditte fregatte et avons passé laditte Equippage en Revéue, et Leures avons donnée deux mois davances ; nous avons Resté en le mesme androit ; pour prandre Nos Reste darmement, conptant faire Voille Le Landemain pour <placeName key="Île-d'Aix" ref="https://geonames.org/6614243" cert="high">Lisleday<precision match="@ref" precision="medium"/></placeName>. mais dans La Nuit environ Les onzes heures du Soir les Vents ayent Beaucoup Raffraichis du <choice><sic>NE</sic><corr>nord-est</corr></choice> et auguementant de plus En plus, Lofficier qui Commandait abord Ne <choice><sic>saitant</sic><corr>s'étant</corr></choice> pas precaussionner de tous Les evenements qui pouvents Survenir, ayent Disposé son aussier<note type="scholarNote">Aussière, cordage de marine très résistant, servant à divers usages.</note> quil avoit a Terre, comme Nestant que sur un ancre, Le Jusant<note type="scholarNote">Jusant, marée descendante.</note> estant venus et surpris : Le dit officier avec une Cottis<note type="scholarNote">Nous n’avons pas pu identifier ce terme.</note> de Vents du <choice><sic>SO</sic><corr>sud-ouest</corr></choice>. ; La fregatte se trouvá engagé par son officier et layent finté a estez aussitots couché ; heureusements quil y avoit deux chaloupe duport qui estoit encouble<note type="scholarNote">Il faut sans doute comprendre encoublé dans le sens d’attaché.</note> de bord, et donná secour a la ditte Equipage pour se Sauver a Terre ; il Sen trouva malheureusement quelque uns de lequipage qui Ne Craignoit point Le danger Samuser a boire a la Barriques de vin <choice><sic>p.</sic><corr>par</corr></choice> mise en perce<note type="scholarNote">Mettre en perce, faire une ouverture dans un tonneau pour en tirer du vin.</note> pour La consommation de Lequipage, Le Temps Ne Luy permettant pas de parvenir a son dessein, il se trouva donc deux mathelots avec un soldats angagé entres les pieces de la <choice><sic>Cal</sic><corr>cale</corr></choice> ; mais Le soldats Se degagea comme estant proche du grand panneau et Se sauva a la Nage a my Ivres ; Les autres se Noyes dans La Calle puisques apres avoir Relevéz La fregatte Nous Les avons trouvé ; Se Napoint Estez avec Beaucoup de painne qu'on ayt eu La fregatte Mais Lon en auroit Eut Bien moin Si <persName>Monsieur Dumenuy</persName> <choice><sic>Capne</sic><corr>capitaine</corr></choice> <choice><sic>Duport</sic><corr>du port</corr></choice> de <placeName key="Rochefort" ref="https://geonames.org/2983276">Rochefort</placeName> joint a tous Ses officiers qui ne faisait travailler quavec peut <choice><sic>Danvis</sic><corr>d’envie</corr></choice> de La Ravoir Sans Landommager ; par la facon de leurs Lanteur et de leures fasson de Disposer Les Chose puisque apres un mois quont à estez a travailler pour tacher de La tirer De <placeName key="La Charente" ref="http://marineregions.org/mrgid/31501" cert="high">La Riviere<precision match="@ref" precision="medium"/></placeName> ; Cependant on à temps fait qu'on La hallée<note type="scholarNote">Haler, remorquer un bateau à partir du rivage au moyen d’un câble. </note> à terre a force de tirer Sur plusieurs cabestant<note type="scholarNote">Cabestan, treuil à axe vertical autour duquel s’enroule un câble servant à tirer un fardeau.</note> qu'on avoit estallée à terre, mais il L'on Beaucoup Endommagé on à Este obligé de Luy Couper Ses mats et voilles et Touttes Ses Manoeuvres<note type="scholarNote">Manœuvres, cordages appartenant au gréement et servant aux manœuvres.</note> ; en suittes plusieurs <pb cert="high" n="2v" xml:space="default"/>Ecarves<note type="scholarNote">Il s’agit probablement de deux pièces de bois ou de deux bordages entaillés et joints.</note> qui <choice><sic>feurre</sic><corr>furent</corr></choice> obliger de Larguer par la grande force que Sa faisait layent dont Relevé nous primes nos mesmes Commandements, et commancames à le Vider <choice><sic>astant</sic><corr>étant</corr></choice> Ramplis de <choice><sic>Vasse</sic><corr>vase</corr></choice> ; et ensuitte nous fumes obligé de Levér les cotards<note type="annotation">Nous n’avons pas pu identifier ce terme.</note> et levames aussi les Parquets pour auter La <choice><sic>Vasse</sic><corr>vase</corr></choice> apres quoy nous nous disposames a La vider en quille et la Carennance<note>Il faut sans doute comprendre avec la carène — partie du bateau normalement immergée — hors d’eau.</note> Nous fume pret a faire voille le <date when="1747-03-20" cert="high">20e. de mars</date>, mais lequipage dont la majeur party Estoit chez Eux, <choice><sic>lont</sic><corr>l'on</corr></choice> fut obliger <choice><sic>danvoyer</sic><corr>d'envoyer</corr></choice> un ordres de <persName cert="low" type="real">Mr. Lintendant</persName> a leurs commissaires pour les anvoyer estant de Retour a bord, Nous et touttes Lequipages demander un autre mois davance ; Se qu'on Nous acordà et Repassame En Reveue<note type="annotation">Passer en revue, inspecter l’équipage.</note> Le <date when="1747-03-26" cert="high">26e. de mars</date> et misme en Radde de <placeName key="Île-d'Aix" ref="https://geonames.org/6614243">Lisle Day</placeName>.</p></div>
+<p>Mercredy dix huit hiemme de Janvier, Les Vents au <choice><sic>NE</sic><corr>nord-est</corr></choice>. Bonne fraicheur avec <choice><sic>graille</sic><corr>grêle</corr></choice> ; a huit heures du Matin ; Nous avons mis sous voilles debordant de Lamiral pour aller a la Mature<note type="scholarNote">Il s’agit vraisemblablement de l’atelier de la mâture, vaste bâtiment de plus de cinquante mètre de long sur quinze de large dans la partie sud de l’arsenal de Rochefort.</note>, affin de Racembler notre Equipage abord, pour faire La Reveûe general, â onze heures <persName>monsieur Le Commissaire dit Seguin</persName> <choice><sic>Ses</sic><corr>s'est</corr></choice> transporté a Bord de La ditte fregatte et avons passé laditte Equippage en Revéue, et Leures avons donnée deux mois davances ; nous avons Resté en le mesme androit ; pour prandre Nos Reste darmement, conptant faire Voille Le Landemain pour <placeName key="Île-d'Aix" ref="https://geonames.org/6614243" cert="high">Lisleday<precision match="@ref" precision="medium"/></placeName>. mais dans La Nuit environ Les onzes heures du Soir les Vents ayent Beaucoup Raffraichis du <choice><sic>NE</sic><corr>nord-est</corr></choice> et auguementant de plus En plus, Lofficier qui Commandait abord Ne <choice><sic>saitant</sic><corr>s'étant</corr></choice> pas precaussionner de tous Les evenements qui pouvents Survenir, ayent Disposé son aussier<note type="scholarNote">Aussière, cordage de marine très résistant, servant à divers usages.</note> quil avoit a Terre, comme Nestant que sur un ancre, Le Jusant<note type="scholarNote">Jusant, marée descendante.</note> estant venus et surpris : Le dit officier avec une Cottis<note type="scholarNote">Nous n’avons pas pu identifier ce terme.</note> de Vents du <choice><sic>SO</sic><corr>sud-ouest</corr></choice>. ; La fregatte se trouvá engagé par son officier et layent finté a estez aussitots couché ; heureusements quil y avoit deux chaloupe duport qui estoit encouble<note type="scholarNote">Il faut sans doute comprendre encoublé dans le sens d’attaché.</note> de bord, et donná secour a la ditte Equipage pour se Sauver a Terre ; il Sen trouva malheureusement quelque uns de lequipage qui Ne Craignoit point Le danger Samuser a boire a la Barriques de vin <choice><sic>p.</sic><corr>par</corr></choice> mise en perce<note type="scholarNote">Mettre en perce, faire une ouverture dans un tonneau pour en tirer du vin.</note> pour La consommation de Lequipage, Le Temps Ne Luy permettant pas de parvenir a son dessein, il se trouva donc deux mathelots avec un soldats angagé entres les pieces de la <choice><sic>Cal</sic><corr>cale</corr></choice> ; mais Le soldats Se degagea comme estant proche du grand panneau et Se sauva a la Nage a my Ivres ; Les autres se Noyes dans La Calle puisques apres avoir Relevéz La fregatte Nous Les avons trouvé ; Se Napoint Estez avec Beaucoup de painne qu'on ayt eu La fregatte Mais Lon en auroit Eut Bien moin Si <persName>Monsieur Dumenuy</persName> <choice><sic>Capne</sic><corr>capitaine</corr></choice> <choice><sic>Duport</sic><corr>du port</corr></choice> de <placeName key="Rochefort" ref="https://geonames.org/2983276">Rochefort</placeName> joint a tous Ses officiers qui ne faisait travailler quavec peut <choice><sic>Danvis</sic><corr>d’envie</corr></choice> de La Ravoir Sans Landommager ; par la facon de leurs Lanteur et de leures fasson de Disposer Les Chose puisque apres un mois quont à estez a travailler pour tacher de La tirer De <placeName key="La Charente" ref="http://marineregions.org/mrgid/31501" cert="high">La Riviere<precision match="@ref" precision="medium"/></placeName> ; Cependant on à temps fait qu'on La hallée<note type="scholarNote">Haler, remorquer un bateau à partir du rivage au moyen d’un câble. </note> à terre a force de tirer Sur plusieurs cabestant<note type="scholarNote">Cabestan, treuil à axe vertical autour duquel s’enroule un câble servant à tirer un fardeau.</note> qu'on avoit estallée à terre, mais il L'on Beaucoup Endommagé on à Este obligé de Luy Couper Ses mats et voilles et Touttes Ses Manoeuvres<note type="scholarNote">Manœuvres, cordages appartenant au gréement et servant aux manœuvres.</note> ; en suittes plusieurs <pb cert="high" n="2v" xml:space="default"/>Ecarves<note type="scholarNote">Il s’agit probablement de deux pièces de bois ou de deux bordages entaillés et joints.</note> qui <choice><sic>feurre</sic><corr>furent</corr></choice> obliger de Larguer par la grande force que Sa faisait layent dont Relevé nous primes nos mesmes Commandements, et commancames à le Vider <choice><sic>astant</sic><corr>étant</corr></choice> Ramplis de <choice><sic>Vasse</sic><corr>vase</corr></choice> ; et ensuitte nous fumes obligé de Levér les cotards<note type="annotation">Nous n’avons pas pu identifier ce terme.</note> et levames aussi les Parquets pour auter La <choice><sic>Vasse</sic><corr>vase</corr></choice> apres quoy nous nous disposames a La vider en quille et la Carennance<note>Il faut sans doute comprendre avec la carène — partie du bateau normalement immergée — hors d’eau.</note> Nous fume pret a faire voille le <date when="1747-03-20" cert="high">20e. de mars</date>, mais lequipage dont la majeur party Estoit chez Eux, <choice><sic>lont</sic><corr>l'on</corr></choice> fut obliger <choice><sic>danvoyer</sic><corr>d'envoyer</corr></choice> un ordres de <persName cert="low" type="real">Mr. Lintendant</persName> a leurs commissaires pour les anvoyer estant de Retour a bord, Nous et touttes Lequipages demander un autre mois davance ; Se qu'on Nous acordà et Repassame En Reveue<note type="annotation">Passer en revue, inspecter l’équipage.</note> Le <date when="1747-03-26" cert="high">26e. de mars</date> et misme en Radde de <placeName key="Île-d'Aix" ref="https://geonames.org/6614243">Lisle Day</placeName>.</p></div>
 <div><opener>Le <date when="1747-03-27" cert="high">mardi 27e Mars 1747</date></opener>
 <p>Le mardi 27e : nous avons Sortis de <placeName key="Île-d'Aix" ref="https://geonames.org/6614243" cert="high">Lisle day</placeName>. les vents <choice><sic>dESE</sic><corr>d'est-sud-est</corr></choice> varriable a <choice><sic>LENE</sic><corr>l'est-nord-est</corr></choice>. Bon frais, avec touttes voilles Dehors à Deux heures de Laprest midy nous avons mouillé dans Le <placeName key="Pertuis Breton" ref="https://www.geonames.org/3232763/" cert="high">pretuis Breton<precision match="@ref" precision="medium"/></placeName> est par Les 7 Brasses<note type="scholarNote">Environ 12,8 m.</note> <choice><sic>deau font</sic><corr>de haut-fond</corr></choice> de Sable, Estant pour le travers de La ville dudit isle ; nous y Avons Resté vingt quatre heures pour y prendre un pillotte <choice><sic>Cautier</sic><corr>côtier</corr></choice>, Mais ny en ayent point trouvé nous avons estez Obligé de faire Route pour <placeName key="Île d'Yeu" ref="https://www.geonames.org/2967241/" cert="high">Lisle Dieu<precision match="@ref" precision="medium"/></placeName> ;</p></div>
 <div><opener>Le <date when="1747-03-29" cert="high">Jeudy.â. 29e mars. 1747</date></opener>
@@ -9779,7 +9864,7 @@
 <p>Du Samedy 31e nous apercue <placeName key="Belle-Île" ref="https://www.geonames.org/3033682/" cert="high">Belle isle</placeName> qui me Restoit au NNO. environ six Lieues<note type="scholarNote">Environ 33,3 km.</note>, nous avons continuer notre Routte. Sans avoir pris Connoissance de Rien ; Les vent Continuel Bon frais. gouvernant au NO. ayen toutte a voilles dehors ;</p></div>
 <div><opener><date when="1747-04-01" cert="high">Dimanche premier D'avril 1747</date></opener>
 <p>Du Dimenche Nous continuons à gouverner Au <choice><sic>NO</sic><corr>nord-ouest</corr></choice>. Et <choice><sic>NO ¼ N</sic><corr>nord-ouest-quart-nord</corr></choice>. avec Toutes Voilles dehors ; mais voyent que La fregatte ne marchait pas et ne portait pas Beaucoup La voille nous primes Le partis de Relacher au <placeName key="Port-Louis" ref="https://www.geonames.org/2985963/" cert="high">port Loüis<precision match="@ref" precision="medium"/></placeName> ou nous y mouillames Le mesmes jour ventant grand frais environs les 5 heures Du Soire ; Immediatement apres nous otame Deux canon de six Livres de Balles et deux de 4 <choice><sic>l.</sic><corr>livres</corr></choice> de Balles que nous mismes dans La qualle sur l'avant du Vaisseaux pansant quil <choice><sic>ut</sic><corr>eut</corr></choice> mieux marché ; nous avons Resté dans La ditte Radde <choice cert="medium"><sic>6 Jours</sic><corr>6 heures</corr></choice> Les vents nous ayent Toujours Contrariez.</p></div>
-<div><p><date when="1747-04-02">Lundy</date> â neuf heures Du Matin Nous appareillame Et Sortimes avec les <choice cert="high"><sic>Vx</sic><corr>vaisseaux</corr></choice> Du Roy L'invincible et Le Jazon et plusieurs navires De La Compagnies des Inde<note type="scholarNote">Compagnie française des Indes orientales, créée par Jean-Baptiste Colbert en 1664 et établie à Lorient à partir de 1666. Son objet est d'assurer au royaume un monopole commercial depuis les côtes d'Afrique jusqu'au Japon, en incluant Madagascar et les Mascareignes, les côtes de la mer Rouge, de Malabar et de Coromandel, le Bengale, la Chine. </note> qui fure mouille Sous <placeName key="Île de Groix" ref="https://geonames.org/3014578" cert="high">Grois<precision match="@ref" precision="medium"/></placeName>, mais Nous poursuivimes notre Routte voullan Trouver <placeName key="Îles de Glénan" ref="https://geonames.org/3015820">Les glenant</placeName> ou Lon nous dit quil y avoit des Corsaires anglais ; Mais Nayent Rien apperçue dedans Nous fimes une Bordé<note type="scholarNote">Faire une bordée, louvoyer. </note> au Large le Cap au <choice><sic>SO</sic><corr>sud-ouest</corr></choice>. les vent au <choice><sic>NE</sic><corr>nord-est</corr></choice> Bon frais ; Sur les 6 heures Du Soire Nous <choice><sic>umes</sic><corr>eûmes</corr></choice> Connaissance d'une Voille qui Chassois Sur Nous ; aussitot Nous Revisame de Bord et Courume pour en avoir mieux <pb cert="high" n="3v" xml:space="default"/>De Connoissance ; peut de tems apres La <choice><sic>Vegie</sic><corr>vigie</corr></choice> <choice><sic>q</sic><corr>qui</corr></choice> Cria Quel En voyait plusieurs quel Contoit au nombre de <choice><sic>Trante trois</sic><corr>trente-trois</corr></choice> Nous presumames que Sestoit Le Convois des Barques Bretonne<note type="scholarNote">Dans le contexte de la guerre navale que se mènent la France et l’Angleterre, la progression des barques bretonnes en convoi répond de toute évidence aux problèmes d’insécurité de la navigation commerciale dans le Golfe de Gascogne.</note> et <choice><sic>altoit</sic><corr>haltait</corr></choice> a Nantes ; mais Celuy que Nous appercume Le premier nous le prime pour un Corsaire anglois vûe quils Estoit Tres Eloigne de La flottes ; Nous ayent joint et nous tres Disposé aux Combats Le dit navire nous anvoyat un Coup de Canon a Boullet Comme Nous Estions au Vent a luy et Ne pouvoit Nous voire notre pavillon nous Donnames un Elans en Luy Envoyent un coups de Canon a boulet pour luy assurer notre Pavillon ; malgré cette assurance il nous tira huit Coup de Canon, Nous Vime Bien que Cestait La decouverte de La Flotte nous arrivames par sous Le Vent a Luy affin de Luy Parler ; nous <choice><sic>helas</sic><corr>héla</corr></choice> demandant dous nous estions ont Luy Repondit fregatte du Roy de <placeName key="Rochefort" ref="https://geonames.org/2983276">Rochefort</placeName> et estant Par Son Traver Nous Le Saluame de Sept Vive le Roy<note type="scholarNote">Le chiffre sept renvoie aux coups de salut au canon du navire déchargeant sept fois pour signifier ses intentions pacifiques à l’entrée d’un port étranger.</note>, et luy Repondit de septLe chiffre sept renvoie aux coups de salut au canon du navire déchargeant sept fois pour signifier ses intentions pacifiques à l’entrée d’un port étranger. autres Vive Le Roy et nous Dit quil y avait un Corsaire qui estait <choice><sic>a Raudé</sic><corr>à rôder</corr></choice> aux environ des glenant, sur les huit heures du soir Nous apercume Un Navire venans a nostre Rencontre qui nous parûs Estre Disposé au combats ayent Distingué Ses Fanaux<note type="scholarNote">Fanal, lanterne servant de signal dans la nuit.</note> Entre Les Postes De Canon ; estant a Porté de Canon. Il nous appercue estant Disposé pareilllement Que Luy. a Combat. voyant sa il vira De bord pour nous Eviter. mais aussitots ayent appercue Sa Maneuvre ; Nous voullumes forcer De Voilles, mais La Mauvaise <choice><sic>Calité</sic><corr>qualité</corr></choice> De La Fregatte ; nous Trompan Baucoup car elle ne pouvais Porter De Voille quoy que Le Tems ne demandoit <choice><sic>au Qu'une</sic><corr>aucune</corr></choice> precaution sur Les Voillures d'un <choice><sic>vx</sic><corr>vaisseau</corr></choice> ; nous <pb cert="high" n="4r" xml:space="default"/><choice><sic>Nume</sic><corr>n'eûmes</corr></choice> donc pas plustot amuré<note type="scholarNote">Amurer, fixer l’amure d’une voile pour l’orienter selon le vent.</note> Nostre grand Voille que Nostre fregatte se Couchá et nayent pas eut le Tems de maneuvrer pour Eviter Lespace de Six minuttes dampecher La fregatte dambarquer de leau par son grand Panneau ou Tout un chachun se Jettoit sur le Bord du Cotté du Vent de ladte fregatte ayent perdûe Touttes Esperances De Vie Criayt mais dieu pourvoyant a Tout et ayent manevrer apropos La fregatte se Releva aussitots, Nous, chercham plus a donner chasse au Dit <choice><sic>Vx</sic><corr>vaisseau</corr></choice> et faisant Routte pour Relacher<note type="scholarNote">Faire relâche, séjourner dans un port ou sur un mouillage.</note>, les vents Estant Propre pour donner O dans <placeName key="Île-d'Aix" ref="https://geonames.org/6614243" cert="high">Lisle Day<precision match="@ref" precision="medium"/></placeName>. Nous y fimes Routtes ;</p></div>
+<div><p><date when="1747-04-02">Lundy</date> â neuf heures Du Matin Nous appareillame Et Sortimes avec les <choice cert="high"><sic>Vx</sic><corr>vaisseaux</corr></choice> Du Roy L'invincible et Le Jazon et plusieurs navires De La Compagnies des Inde<note type="scholarNote">Compagnie française des Indes orientales, créée par Jean-Baptiste Colbert en 1664 et établie à Lorient à partir de 1666. Son objet est d'assurer au royaume un monopole commercial depuis les côtes d'Afrique jusqu'au Japon, en incluant Madagascar et les Mascareignes, les côtes de la mer Rouge, de Malabar et de Coromandel, le Bengale, la Chine. </note> qui fure mouille Sous <placeName key="Île de Groix" ref="https://geonames.org/3014578" cert="high">Grois<precision match="@ref" precision="medium"/></placeName>, mais Nous poursuivimes notre Routte voullan Trouver <placeName key="Îles de Glénan" ref="https://geonames.org/3015820">Les glenant</placeName> ou Lon nous dit quil y avoit des Corsaires anglais ; Mais Nayent Rien apperçue dedans Nous fimes une Bordé<note type="scholarNote">Faire une bordée, louvoyer. </note> au Large le Cap au <choice><sic>SO</sic><corr>sud-ouest</corr></choice>. les vent au <choice><sic>NE</sic><corr>nord-est</corr></choice> Bon frais ; Sur les 6 heures Du Soire Nous <choice><sic>umes</sic><corr>eûmes</corr></choice> Connaissance d'une Voille qui Chassois Sur Nous ; aussitot Nous Revisame de Bord et Courume pour en avoir mieux <pb cert="high" n="3v" xml:space="default"/>De Connoissance ; peut de tems apres La <choice><sic>Vegie</sic><corr>vigie</corr></choice> <choice><sic>q</sic><corr>qui</corr></choice> Cria Quel En voyait plusieurs quel Contoit au nombre de <choice><sic>Trante trois</sic><corr>trente-trois</corr></choice> Nous presumames que Sestoit Le Convois des Barques Bretonne<note n="1" type="scholarNote">Dans le contexte de la guerre navale que se mènent la France et l’Angleterre, la progression des barques bretonnes en convoi répond de toute évidence aux problèmes d’insécurité de la navigation commerciale dans le Golfe de Gascogne.</note> et <choice><sic>altoit</sic><corr>haltait</corr></choice> a Nantes ; mais Celuy que Nous appercume Le premier nous le prime pour un Corsaire anglois vûe quils Estoit Tres Eloigne de La flottes ; Nous ayent joint et nous tres Disposé aux Combats Le dit navire nous anvoyat un Coup de Canon a Boullet Comme Nous Estions au Vent a luy et Ne pouvoit Nous voire notre pavillon nous Donnames un Elans en Luy Envoyent un coups de Canon a boulet pour luy assurer notre Pavillon ; malgré cette assurance il nous tira huit Coup de Canon, Nous Vime Bien que Cestait La decouverte de La Flotte nous arrivames par sous Le Vent a Luy affin de Luy Parler ; nous <choice><sic>helas</sic><corr>héla</corr></choice> demandant dous nous estions ont Luy Repondit fregatte du Roy de <placeName key="Rochefort" ref="https://geonames.org/2983276">Rochefort</placeName> et estant Par Son Traver Nous Le Saluame de Sept Vive le Roy<note type="scholarNote">Le chiffre sept renvoie aux coups de salut au canon du navire déchargeant sept fois pour signifier ses intentions pacifiques à l’entrée d’un port étranger.</note>, et luy Repondit de septLe chiffre sept renvoie aux coups de salut au canon du navire déchargeant sept fois pour signifier ses intentions pacifiques à l’entrée d’un port étranger. autres Vive Le Roy et nous Dit quil y avait un Corsaire qui estait <choice><sic>a Raudé</sic><corr>à rôder</corr></choice> aux environ des glenant, sur les huit heures du soir Nous apercume Un Navire venans a nostre Rencontre qui nous parûs Estre Disposé au combats ayent Distingué Ses Fanaux<note type="scholarNote">Fanal, lanterne servant de signal dans la nuit.</note> Entre Les Postes De Canon ; estant a Porté de Canon. Il nous appercue estant Disposé pareilllement Que Luy. a Combat. voyant sa il vira De bord pour nous Eviter. mais aussitots ayent appercue Sa Maneuvre ; Nous voullumes forcer De Voilles, mais La Mauvaise <choice><sic>Calité</sic><corr>qualité</corr></choice> De La Fregatte ; nous Trompan Baucoup car elle ne pouvais Porter De Voille quoy que Le Tems ne demandoit <choice><sic>au Qu'une</sic><corr>aucune</corr></choice> precaution sur Les Voillures d'un <choice><sic>vx</sic><corr>vaisseau</corr></choice> ; nous <pb cert="high" n="4r" xml:space="default"/><choice><sic>Nume</sic><corr>n'eûmes</corr></choice> donc pas plustot amuré<note type="scholarNote">Amurer, fixer l’amure d’une voile pour l’orienter selon le vent.</note> Nostre grand Voille que Nostre fregatte se Couchá et nayent pas eut le Tems de maneuvrer pour Eviter Lespace de Six minuttes dampecher La fregatte dambarquer de leau par son grand Panneau ou Tout un chachun se Jettoit sur le Bord du Cotté du Vent de ladte fregatte ayent perdûe Touttes Esperances De Vie Criayt mais dieu pourvoyant a Tout et ayent manevrer apropos La fregatte se Releva aussitots, Nous, chercham plus a donner chasse au Dit <choice><sic>Vx</sic><corr>vaisseau</corr></choice> et faisant Routte pour Relacher<note type="scholarNote">Faire relâche, séjourner dans un port ou sur un mouillage.</note>, les vents Estant Propre pour donner O dans <placeName key="Île-d'Aix" ref="https://geonames.org/6614243" cert="high">Lisle Day<precision match="@ref" precision="medium"/></placeName>. Nous y fimes Routtes ;</p></div>
 <div><opener>Du <date when="1747-04-03" cert="high">mardy. 3e. avril 1747</date>.</opener>
 <p>Mardis 3e. Avril 1747</p>
 <p>Aujourdhuy faisant noutre Routte nous avons Rancontré un petit corsaire montant Dix Canon, voyant que nous Ne Marchion pas et que Nous avions nos Canons a la saire<note type="scholarNote">À la serre, type d’amarrage ordinaire d’un canon dans les batteries basses du navire. En dehors des combats, les canons sont immobilisés à l’aide de cordages, la bouche appuyée contre la serre-bauquière — pièce de bois longitudinale d’un navire chevillée à tous les couples — dans l’axe du sabord.</note> et Les sabort<note type="scholarNote">Sabord, ouverture quadrangulaire servant de passage à la bouche des canons. Comment ne pas penser ici au capitaine Archibald Haddock pour qui les sabords vont au moins par mille !</note> fermé Nous pris pour un marchand : Nous ayent aproché aporté de Canon et estant venu Dans nos Eaux Nous ne voullumes pas Luy Donner plus de tenue pour Estre Sous La Domination du Roy Dangletere ; nous Donnames un arrivé affin de luy envoyer Touttes Notre Vollé et ce que nous Executame mais malheureusement il Ny Eut aucun Coup qui Luy portes abord, et marchand bien Mieu que Nous, <choice><sic>Sechapa</sic><corr>s’échappa</corr></choice> et en peut Le perdime de Vûe Le <date when="1747-04-04" cert="high">Mercredy</date></p></div>
