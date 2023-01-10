@@ -5722,7 +5722,7 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110173536533",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T16:35:36.533Z",
-	"dcterms:modified": "2023-01-10T16:38:05.359Z",
+	"dcterms:modified": "2023-01-10T16:35:36.533Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -5956,10 +5956,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110173753369",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110173907254",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-10T16:37:53.369Z",
-	"dcterms:modified": "2023-01-10T16:37:53.369Z",
+	"dcterms:created": "2023-01-10T16:39:07.254Z",
+	"dcterms:modified": "2023-01-10T16:39:07.254Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -5970,7 +5970,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110173753369#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110173907254#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -5984,7 +5984,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110173753369#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110173907254#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[2]/p/placeName[3]"
 		}
