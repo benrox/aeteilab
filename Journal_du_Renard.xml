@@ -4296,7 +4296,6 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?person_annotation_20230110171923996",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T16:19:23.996Z",
-	"dcterms:modified": "2023-01-10T16:19:23.996Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -4323,7 +4322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?person_annotation_20230110171923996#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/opener/persName"
+			"rdf:value": "TEI/text/body/div/opener/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -9961,10 +9960,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110190655028",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110190527617",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-10T18:06:55.028Z",
-	"dcterms:modified": "2023-01-10T18:06:55.028Z",
+	"dcterms:created": "2023-01-10T18:05:27.617Z",
+	"dcterms:modified": "2023-01-10T18:05:27.617Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -9975,7 +9974,7 @@
 	},
 	"oa:motivatedBy": "oa:editing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110190655028#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110190527617#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -9989,7 +9988,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110190655028#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110190527617#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[7]/p/choice[16]"
 		}
@@ -10008,11 +10007,89 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?person_annotation_20230110191005458",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-01-10T18:10:05.458Z",
+	"dcterms:modified": "2023-01-10T18:10:05.458Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/benrox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Benoit Roux"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?person_annotation_20230110191005458#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?person_annotation_20230110191005458#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/opener/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
 			<div>
-				<opener>Journal de Navigation Pour Servire au Sieur Le Breton Lavallée Capitainne En segond sur La fregatte du Roy Le Renard Commandé par <persName cert="low" type="real">Mr. Venard</persName> Enseigne De Vaiseaux, ayent Cent soixante Cinq homme dequipage et Seize Canon de 8 <choice><sic>l.</sic><corr>livres</corr></choice> de <choice><sic>bal</sic><corr>balles</corr></choice> Et 16 Perrier<note type="scholarNote">Pierrier, canon qui lance des boulets de pierre. </note>120 Mousquet 30 spingolle<note type="scholarNote">Spingole, fusil court au canon évasé.</note>. party de <placeName key="Rochefort" ref="https://geonames.org/2983276" cert="high">Rochefort<precision match="@ref" precision="medium"/></placeName> le <date when="1747-01-18" cert="high">18e janvier 1747</date>.</opener>
+				<opener>Journal de Navigation Pour Servire au <persName cert="high" type="real">Sieur Le Breton Lavallée</persName> Capitainne En segond sur La fregatte du Roy Le Renard Commandé par <persName cert="low" type="real">Mr. Venard</persName> Enseigne De Vaiseaux, ayent Cent soixante Cinq homme dequipage et Seize Canon de 8 <choice><sic>l.</sic><corr>livres</corr></choice> de <choice><sic>bal</sic><corr>balles</corr></choice> Et 16 Perrier<note type="scholarNote">Pierrier, canon qui lance des boulets de pierre. </note>120 Mousquet 30 spingolle<note type="scholarNote">Spingole, fusil court au canon évasé.</note>. party de <placeName key="Rochefort" ref="https://geonames.org/2983276" cert="high">Rochefort<precision match="@ref" precision="medium"/></placeName> le <date when="1747-01-18" cert="high">18e janvier 1747</date>.</opener>
 				
 				<div><pb cert="high" n="2r" xml:space="default"/>
 				<opener><date when="1747-01-18" cert="high">Janvier 18e 1747</date></opener>
