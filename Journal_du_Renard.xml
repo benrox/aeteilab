@@ -6433,7 +6433,6 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174610331",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T16:46:10.331Z",
-	"dcterms:modified": "2023-01-10T16:46:10.331Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -6460,7 +6459,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174610331#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[4]/p/choice[2]"
+			"rdf:value": "TEI/text/body/div/div[4]/p/choice[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -6512,7 +6511,6 @@
 	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174617067",
 	"type": "oa:Annotation",
 	"dcterms:created": "2023-01-10T16:46:17.067Z",
-	"dcterms:modified": "2023-01-10T16:46:17.067Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -6539,7 +6537,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174617067#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[4]/p/choice[3]"
+			"rdf:value": "TEI/text/body/div/div[4]/p/choice[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -6746,10 +6744,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174739066",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110174843801",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-10T16:47:39.066Z",
-	"dcterms:modified": "2023-01-10T16:47:39.066Z",
+	"dcterms:created": "2023-01-10T16:48:43.801Z",
+	"dcterms:modified": "2023-01-10T16:48:43.801Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -6758,9 +6756,9 @@
 		],
 		"cwrc:hasName": "Benoit Roux"
 	},
-	"oa:motivatedBy": "oa:editing",
+	"oa:motivatedBy": "oa:describing",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174739066#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110174843801#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -6774,15 +6772,94 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174739066#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?note_annotation_20230110174843801#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/div[6]/p/choice[3]"
+			"rdf:value": "TEI/text/body/div/div[4]/p/note[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "oa:TextualBody",
+		"dc:format": "text/plain",
+		"rdf:value": "Degré de vitesse du bateau."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174901069",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-01-10T16:49:01.069Z",
+	"dcterms:modified": "2023-01-10T16:49:01.069Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/benrox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Benoit Roux"
+	},
+	"oa:motivatedBy": "oa:editing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174901069#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174901069#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[4]/p/choice[2]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "fabio:Correction",
 		"dc:format": "text/xml",
-		"rdf:value": "livres"
+		"rdf:value": "abandonné"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -6807,11 +6884,11 @@
 <div><opener>Le <date when="1747-03-29" cert="high">Jeudy.â. 29e mars. 1747</date></opener>
 <p>Du Jeudy. â Deux heures de Lapres midy. nous avons levéz Lancre et avons fait voille pour <placeName key="Île d'Yeu" ref="https://www.geonames.org/2967241/">Lisle Dieu</placeName> les vent a <choice><sic>LESE</sic><corr>l'est-sud-est</corr></choice>. bon fraits et nayent Rien observé dans La Routte qu'un navire Marchand qui estant par Le traver des <placeName key="Les Barges d'Olonne" ref="http://vocab.getty.edu/tgn/7630554">Barges Dollonnes</placeName>. Nous à parlé et ne Sachant pas ou il Estoit, et nous à dit quil venoit de La <placeName key="Martinique" ref="https://geonames.org/3570312" cert="high">Martinique</placeName> et avoit estez chassé d'un Corsaire ;</p></div>
 <div><opener>Le <date when="1747-03-30" cert="high">Vandredy. 30e Mars 1747</date></opener>
-<p>Du Vandredy a Cinq heure et demy du Soir Nous avons Mouillez par les 10 Brasses<note type="annotation">Environ 18 m.</note> deau et avons restez jusquà <date when="1747-04-01" cert="high">Landemain</date> deux heures de La pres midy. ayant Pris un pillotte <choice><sic>Cautier</sic><corr>côtier</corr></choice>, nous avons Levéz Lancre et avons appareiller pour donner chasses à un corsaire mathé en d'augre<note type="annotation">Maté en dogre, navire dont la mâture est celle des bâtiments qui servent alors à la pêche du hareng et du maquereau dans la Manche et en mer du Nord.</note> qui estoit <persName cert="high" type="real">Jean <pb cert="high" n="3r" xml:space="default"/>Le gros</persName> harmé a <placeName key="Jersey" ref="https://geonames.org/3042143">Lisle de Gersay</placeName> et Luy avons donné chasse depuis les Deux heures de lapres midy Jusque sur les 5 heures voyant Ne pouvoir Rien luy faire sur La Marche nous lavons Enbandonnée, et avons Continuer nostre Routte au <choice><sic>NO</sic><corr>nord-ouest</corr></choice>. Les vents Bon frais au <choice><sic>NE</sic><corr>nord-est</corr></choice>. ;</p></div>
+<p>Du Vandredy a Cinq heure et demy du Soir Nous avons Mouillez par les 10 Brasses<note type="annotation">Environ 18 m.</note> deau et avons restez jusquà <date when="1747-04-01" cert="high">Landemain</date> deux heures de La pres midy. ayant Pris un pillotte <choice><sic>Cautier</sic><corr>côtier</corr></choice>, nous avons Levéz Lancre et avons appareiller pour donner chasses à un corsaire mathé en d'augre<note type="annotation">Maté en dogre, navire dont la mâture est celle des bâtiments qui servent alors à la pêche du hareng et du maquereau dans la Manche et en mer du Nord.</note> qui estoit <persName cert="high" type="real">Jean <pb cert="high" n="3r" xml:space="default"/>Le gros</persName> harmé a <placeName key="Jersey" ref="https://geonames.org/3042143">Lisle de Gersay</placeName> et Luy avons donné chasse depuis les Deux heures de lapres midy Jusque sur les 5 heures voyant Ne pouvoir Rien luy faire sur La Marche<note type="annotation">Degré de vitesse du bateau.</note> nous lavons <choice><sic>Enbandonnée</sic><corr>abandonné</corr></choice>, et avons Continuer nostre Routte au <choice><sic>NO</sic><corr>nord-ouest</corr></choice>. Les vents Bon frais au <choice><sic>NE</sic><corr>nord-est</corr></choice>. ;</p></div>
 <div><opener>Le <date when="1747-03-31">Samedy. 31e mars 1747</date>.</opener>
 <p>Du Samedy 31e nous apercue <placeName key="Belle-Île" ref="https://www.geonames.org/3033682/" cert="high">Belle isle</placeName> qui me Restoit au NNO. environ six Lieues, nous avons continuer notre Routte. Sans avoir pris Connoissance de Rien ; Les vent Continuel Bon frais. gouvernant au NO. ayen toutte a voilles dehors ;</p></div>
 <div><opener><date when="1747-04-01" cert="high">Dimanche premier D'avril 1747</date></opener>
-<p>Du Dimenche Nous continuons à gouverner Au <choice><sic>NO</sic><corr>nord-ouest</corr></choice>. Et <choice><sic>NO ¼ N</sic><corr>nord-ouest-quart-nord</corr></choice>. avec Toutes Voilles dehors ; mais voyent que La fregatte ne marchait pas et ne portait pas Beaucoup La voille nous primes Le partis de Relacher au <placeName key="Port-Louis" ref="https://www.geonames.org/2985963/" cert="high">port Loüis<precision match="@ref" precision="medium"/></placeName> ou nous y mouillames Le mesmes jour ventant grand frais environs les 5 heures Du Soire ; Immediatement apres nous otame Deux canon de six Livres de Balles et deux de 4 <choice><sic>l.</sic><corr>livres</corr></choice> de Balles que nous mismes dans La qualle sur l'avant du Vaisseaux pansant quil ut mieux marché ; nous avons Resté dans La ditte Radde 6 Jours Les vents nous ayent Toujours Contrariez.</p></div>
+<p>Du Dimenche Nous continuons à gouverner Au <choice><sic>NO</sic><corr>nord-ouest</corr></choice>. Et <choice><sic>NO ¼ N</sic><corr>nord-ouest-quart-nord</corr></choice>. avec Toutes Voilles dehors ; mais voyent que La fregatte ne marchait pas et ne portait pas Beaucoup La voille nous primes Le partis de Relacher au <placeName key="Port-Louis" ref="https://www.geonames.org/2985963/" cert="high">port Loüis<precision match="@ref" precision="medium"/></placeName> ou nous y mouillames Le mesmes jour ventant grand frais environs les 5 heures Du Soire ; Immediatement apres nous otame Deux canon de six Livres de Balles et deux de 4 l. de Balles que nous mismes dans La qualle sur l'avant du Vaisseaux pansant quil ut mieux marché ; nous avons Resté dans La ditte Radde 6 Jours Les vents nous ayent Toujours Contrariez.</p></div>
 <div><p><date when="1747-04-02">Lundy</date> â neuf heures Du Matin Nous appareillame Et Sortimes avec les Vx Du Roy L'invincible et Le Jazon et plusieurs navires De La Compagnies des Inde qui fure mouille Sous <placeName key="Île de Groix" ref="https://geonames.org/3014578" cert="high">Grois<precision match="@ref" precision="medium"/></placeName>, mais Nous poursuivimes notre Routte voullan Trouver <placeName key="Îles de Glénan" ref="https://geonames.org/3015820">Les glenant</placeName> ou Lon nous dit quil y avoit des Corsaires anglais ; Mais Nayent Rien apperçue dedans Nous fimes une Bordé au Large le Cap au SO. les vent au NE Bon frais ; Sur les 6 heures Du Soire Nous umes Connaissance d'une Voille qui Chassois Sur Nous ; aussitot Nous Revisame de Bord et Courume pour en avoir mieux <pb cert="high" n="3v" xml:space="default"/>De Connoissance ; peut de tems apres La Vegie q Cria Quel En voyait plusieurs quel Contoit au nombre de Trante trois Nous presumames que Sestoit Le Convois des Barques Bretonne et altoit a Nantes ; mais Celuy que Nous appercume Le premier nous le prime pour un Corsaire anglois vûe quils Estoit Tres Eloigne de La flottes ; Nous ayent joint et nous tres Disposé aux Combats Le dit navire nous anvoyat un Coup de Canon a Boullet Comme Nous Estions au Vent a luy et Ne pouvoit Nous voire notre pavillon nous Donnames un Elans en Luy Envoyent un coups de Canon a boulet pour luy assurer notre Pavillon ; malgré cette assurance il nous tira huit Coup de Canon, Nous Vime Bien que Cestait La decouverte de La Flotte nous arrivames par sous Le Vent a Luy affin de Luy Parler ; nous helas demandant dous nous estions ont Luy Repondit fregatte du Roy de <placeName key="Rochefort" ref="https://geonames.org/2983276">Rochefort</placeName> et estant Par Son Traver Nous Le Saluame de Sept Vive le Roy, et luy Repondit de sept autres Vive Le Roy et nous Dit quil y avait un Corsaire qui estait a Raudé aux environ des glenant, sur les huit heures du soir Nous apercume Un Navire venans a nostre Rencontre qui nous parûs Estre Disposé au combats ayent Distingué Ses Fanaux Entre Les Postes De Canon ; estant a Porté de Canon. Il nous appercue estant Disposé pareilllement Que Luy. a Combat. voyant sa il vira De bord pour nous Eviter. mais aussitots ayent appercue Sa Maneuvre ; Nous voullumes forcer De Voilles, mais La Mauvaise Calité De La Fregatte ; nous Trompan Baucoup car elle ne pouvais Porter De Voille quoy que Le Tems ne demandoit au Qu'une precaution sur Les Voillures d'un <choice><sic>vx</sic><corr>vaisseau</corr></choice> ; nous <pb cert="high" n="4r" xml:space="default"/><choice><sic>Nume</sic><corr>n'eûmes</corr></choice> donc pas plustot amuré Nostre grand Voille que Nostre fregatte se Couchá et nayent pas eut le Tems de maneuvrer pour Eviter Lespace de Six minuttes dampecher La fregatte dambarquer de leau par son grand Panneau ou Tout un chachun se Jettoit sur le Bord du Cotté du Vent de ladte fregatte ayent perdûe Touttes Esperances De Vie Criayt mais dieu pourvoyant a Tout et ayent manevrer apropos La fregatte se Releva aussitots, Nous, chercham plus a donner chasse au Dit <choice><sic>Vx</sic><corr>vaisseau</corr></choice> et faisant Routte pour Relacher, les vents Estant Propre pour donner O dans <placeName key="Île-d'Aix" ref="https://geonames.org/6614243" cert="high">Lisle Day<precision match="@ref" precision="medium"/></placeName>. Nous y fimes Routtes ;</p></div>
 <div><opener>Du <date when="1747-04-03" cert="high">mardy. 3e. avril 1747</date>.</opener>
 <p>Mardis 3e. Avril 1747</p>
