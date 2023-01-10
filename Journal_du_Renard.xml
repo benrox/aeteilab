@@ -6320,6 +6320,242 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?person_annotation_20230110174545130",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-01-10T16:45:45.130Z",
+	"dcterms:modified": "2023-01-10T16:45:45.130Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/benrox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Benoit Roux"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?person_annotation_20230110174545130#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?person_annotation_20230110174545130#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[4]/p/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	},
+	"cwrc:hasCertainty": "cwrc:high"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174610331",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-01-10T16:46:10.331Z",
+	"dcterms:modified": "2023-01-10T16:46:10.331Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/benrox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Benoit Roux"
+	},
+	"oa:motivatedBy": "oa:editing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174610331#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174610331#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[4]/p/choice[2]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:Correction",
+		"dc:format": "text/xml",
+		"rdf:value": "nord-ouest"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174617067",
+	"type": "oa:Annotation",
+	"dcterms:created": "2023-01-10T16:46:17.067Z",
+	"dcterms:modified": "2023-01-10T16:46:17.067Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/benrox",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Benoit Roux"
+	},
+	"oa:motivatedBy": "oa:editing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174617067#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "2.3.1"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?correction_annotation_20230110174617067#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/div[4]/p/choice[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "fabio:Correction",
+		"dc:format": "text/xml",
+		"rdf:value": "nord-est"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "2.3.1"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 	<text>
 		<body>
@@ -6334,7 +6570,7 @@
 <div><opener>Le <date when="1747-03-29" cert="high">Jeudy.â. 29e mars. 1747</date></opener>
 <p>Du Jeudy. â Deux heures de Lapres midy. nous avons levéz Lancre et avons fait voille pour <placeName key="Île d'Yeu" ref="https://www.geonames.org/2967241/">Lisle Dieu</placeName> les vent a <choice><sic>LESE</sic><corr>l'est-sud-est</corr></choice>. bon fraits et nayent Rien observé dans La Routte qu'un navire Marchand qui estant par Le traver des <placeName key="Les Barges d'Olonne" ref="http://vocab.getty.edu/tgn/7630554">Barges Dollonnes</placeName>. Nous à parlé et ne Sachant pas ou il Estoit, et nous à dit quil venoit de La <placeName key="Martinique" ref="https://geonames.org/3570312" cert="high">Martinique</placeName> et avoit estez chassé d'un Corsaire ;</p></div>
 <div><opener>Le <date when="1747-03-30" cert="high">Vandredy. 30e Mars 1747</date></opener>
-<p>Du Vandredy a Cinq heure et demy du Soir Nous avons Mouillez par les 10 Brasses<note type="annotation">Environ 18 m.</note> deau et avons restez jusquà <date when="1747-04-01" cert="high">Landemain</date> deux heures de La pres midy. ayant Pris un pillotte <choice><sic>Cautier</sic><corr>côtier</corr></choice>, nous avons Levéz Lancre et avons appareiller pour donner chasses à un corsaire mathé en d'augre<note type="annotation">Maté en dogre, navire dont la mâture est celle des bâtiments qui servent alors à la pêche du hareng et du maquereau dans la Manche et en mer du Nord.</note> qui estoit Jean <pb cert="high" n="3r" xml:space="default"/>Le gros harmé a <placeName key="Jersey" ref="https://geonames.org/3042143">Lisle de Gersay</placeName> et Luy avons donné chasse depuis les Deux heures de lapres midy Jusque sur les 5 heures voyant Ne pouvoir Rien luy faire sur La Marche nous lavons Enbandonnée, et avons Continuer nostre Routte au NO. Les vents Bon frais au NE. ;</p></div>
+<p>Du Vandredy a Cinq heure et demy du Soir Nous avons Mouillez par les 10 Brasses<note type="annotation">Environ 18 m.</note> deau et avons restez jusquà <date when="1747-04-01" cert="high">Landemain</date> deux heures de La pres midy. ayant Pris un pillotte <choice><sic>Cautier</sic><corr>côtier</corr></choice>, nous avons Levéz Lancre et avons appareiller pour donner chasses à un corsaire mathé en d'augre<note type="annotation">Maté en dogre, navire dont la mâture est celle des bâtiments qui servent alors à la pêche du hareng et du maquereau dans la Manche et en mer du Nord.</note> qui estoit <persName cert="high" type="real">Jean <pb cert="high" n="3r" xml:space="default"/>Le gros</persName> harmé a <placeName key="Jersey" ref="https://geonames.org/3042143">Lisle de Gersay</placeName> et Luy avons donné chasse depuis les Deux heures de lapres midy Jusque sur les 5 heures voyant Ne pouvoir Rien luy faire sur La Marche nous lavons Enbandonnée, et avons Continuer nostre Routte au <choice><sic>NO</sic><corr>nord-ouest</corr></choice>. Les vents Bon frais au <choice><sic>NE</sic><corr>nord-est</corr></choice>. ;</p></div>
 <div><opener>Le <date when="1747-03-31">Samedy. 31e mars 1747</date>.</opener>
 <p>Du Samedy 31e nous apercue <placeName key="Belle-Île" ref="https://www.geonames.org/3033682/" cert="high">Belle isle</placeName> qui me Restoit au NNO. environ six Lieues, nous avons continuer notre Routte. Sans avoir pris Connoissance de Rien ; Les vent Continuel Bon frais. gouvernant au NO. ayen toutte a voilles dehors ;</p></div>
 <div><opener><date when="1747-04-01" cert="high">Dimanche premier D'avril 1747</date></opener>
