@@ -7357,10 +7357,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110182649414",
+	"id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110182820522",
 	"type": "oa:Annotation",
-	"dcterms:created": "2023-01-10T17:26:49.414Z",
-	"dcterms:modified": "2023-01-10T17:26:49.414Z",
+	"dcterms:created": "2023-01-10T17:28:20.522Z",
+	"dcterms:modified": "2023-01-10T17:28:32.083Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/benrox",
 		"@type": [
@@ -7371,7 +7371,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110182649414#Target",
+		"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110182820522#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml",
@@ -7385,7 +7385,7 @@
 			"schema:softwareVersion": "2.3.1"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110182649414#Selector",
+			"@id": "https://raw.githubusercontent.com/benrox/aeteilab/main/Journal_du_Renard.xml?place_annotation_20230110182820522#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/div[9]/p/placeName"
 		}
@@ -7430,7 +7430,7 @@
 <p>Mardis 3e. Avril 1747</p>
 <p>Aujourdhuy faisant noutre Routte nous avons Rancontré un petit corsaire montant Dix Canon, voyant que nous Ne Marchion pas et que Nous avions nos Canons a la saire et Les sabort fermé Nous pris pour un marchand : Nous ayent aproché aporté de Canon et estant venu Dans nos Eaux Nous ne voullumes pas Luy Donner plus de tenue pour Estre Sous La Domination du Roy Dangletere ; nous Donnames un arrivé affin de luy envoyer Touttes Notre Vollé et ce que nous Executame mais malheureusement il Ny Eut aucun Coup qui Luy portes abord, et marchand bien Mieu que Nous, Sechapa et en peut Le perdime de Vûe Le <date when="1747-04-04" cert="high">Mercredy</date></p></div>
 <div><opener><date when="1747-04-04" cert="high">mercredy 4e avril 1747</date></opener>
-<p>Nous Ne pumes aller mouiller a Lisle vûe que les <pb cert="high" n="4v" xml:space="default"/>vents estant variez du SO au SE et SSE grand frais Nous fumes obliger daller en La Radde de <placeName key=" Chef de Baie" ref="https://www.geonames.org/3025644/" cert="medium">Chette Bois<precision match="@ref" precision="medium"/></placeName> ou nous y Mouillames Malheureusement Mais Voyant quil vantoit grand frais nous fumes obliger de moullier nos deux amures en Barbe<note type="scholarNote">Être en barbe, être mouillé à l’avant et à proximité d’un autre navire.</note> ou Ne pouvant Trouver Dautre expediant, mais le vent Estant Toujours continuel du SSE grand frais Ne pouvant Plus Tenire avec nos deux amures la fregatte chassoit Toujours sur la <placeName key="Pointe des Minimes" ref="http://www.geonames.org/2993794/">pte Des Minisme<precision match="@ref" precision="high"/></placeName> et ayent fait sonder sous nous estant pour lors a mer plaisne nous ne Trouvames Que Cinq Brasses<note type="scholarNote">Environ 9,15 m.</note> deaux, se qui nous determina a Couper notre Mats Dartimon affin deviter les Mauvais suittes pour arrivér Dans La Rochelle, ou nous fumes nous echoués sur les vasses, et Le Landemain entrame dans Le port pour nous Racommodér ; mais ; <persName key="Maurepas, Jean-Frédéric Phélypeaux, 1701-1781, comte de" ref="http://viaf.org/viaf/19790656/" cert="high" type="real">monsgr de maurepas</persName> ecrivit quil falloit Prandre notre Equipage pr ranplacer sur la fregatte du Roy La gironde ce quont fit, et nous donnà un grand acheminement a Notre Desarmemt Nous avons menez La fregatte a Rochefort ou Nous avons desarmé et etez Congedier le <date when="1747-04-12" cert="high">12e dudit Mois D'avril 1747</date></p></div>
+<p>Nous Ne pumes aller mouiller a Lisle vûe que les <pb cert="high" n="4v" xml:space="default"/>vents estant variez du SO au SE et SSE grand frais Nous fumes obliger daller en La Radde de <placeName key="Chef de Baie" ref="https://www.geonames.org/3025644/" cert="medium">Chette Bois<precision match="@ref" precision="medium"/></placeName> ou nous y Mouillames Malheureusement Mais Voyant quil vantoit grand frais nous fumes obliger de moullier nos deux amures en Barbe<note type="scholarNote">Être en barbe, être mouillé à l’avant et à proximité d’un autre navire.</note> ou Ne pouvant Trouver Dautre expediant, mais le vent Estant Toujours continuel du SSE grand frais Ne pouvant Plus Tenire avec nos deux amures la fregatte chassoit Toujours sur la <placeName key="Pointe des Minimes" ref="http://www.geonames.org/2993794/">pte Des Minisme<precision match="@ref" precision="high"/></placeName> et ayent fait sonder sous nous estant pour lors a mer plaisne nous ne Trouvames Que Cinq Brasses<note type="scholarNote">Environ 9,15 m.</note> deaux, se qui nous determina a Couper notre Mats Dartimon affin deviter les Mauvais suittes pour arrivér Dans La Rochelle, ou nous fumes nous echoués sur les vasses, et Le Landemain entrame dans Le port pour nous Racommodér ; mais ; <persName key="Maurepas, Jean-Frédéric Phélypeaux, 1701-1781, comte de" ref="http://viaf.org/viaf/19790656/" cert="high" type="real">monsgr de maurepas</persName> ecrivit quil falloit Prandre notre Equipage pr ranplacer sur la fregatte du Roy La gironde ce quont fit, et nous donnà un grand acheminement a Notre Desarmemt Nous avons menez La fregatte a Rochefort ou Nous avons desarmé et etez Congedier le <date when="1747-04-12" cert="high">12e dudit Mois D'avril 1747</date></p></div>
 <closer>Fin Du Journal De La fregatte Du Roy Le Renard</closer></div>
 		</body>
 	</text>
